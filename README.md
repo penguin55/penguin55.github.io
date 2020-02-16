@@ -6,16 +6,16 @@ This is my portfolio about my journey in Game Development, I Hope you enjoy it.
 
 ***
 # Table of Contents
-* [My Journey in Game Development](#My-Journey-in-Game-Development)
-    * [Where I Start my Journey](#Where-I-Start-my-Journey)
-    * [My First Global Game Jam](#My-First-Global-Game-Jam)
-    * [Tools that I use](#Tools-that-I-use)
-* [My Game Jam History](#My-Global-Game-Jam-History)
-    * [Global Game Jam 2018 Surabaya](#Global-Game-Jam-2018-Surabaya)
-    * [Global Game Jam 2019 Jogja](#Global-Game-Jam-2019-Jogja)
-    * [Global Game Jam 2020 Surabaya](#Global-Game-Jam-2020-Surabaya)
-* [Game Projects](#Game-Projects)
-* [My Libraries](#My-Libraries)
+* [My Journey in Game Development](#my-journey-in-game-development)
+    * [Where I Start my Journey](#where-i-start-my-journey)
+    * [My First Global Game Jam](#my-first-global-game-jam)
+    * [Tools that I use](#tools-that-i-use)
+* [My Game Jam History](#my-game-jam-history)
+    * [Global Game Jam 2018 Surabaya](#global-game-jam-2018-surabaya)
+    * [Global Game Jam 2019 Jogja](#global-game-jam-2019-jogja)
+    * [Global Game Jam 2020 Surabaya](#global-game-jam-2020-surabaya)
+* [Game Projects](#game-projects)
+* [My Libraries](#my-libraries)
 
 ***
 
