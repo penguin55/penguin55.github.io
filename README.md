@@ -93,6 +93,5 @@ protect the spacecraft and repair it when the part is broken.
 
 
 ***
-[Click this Link](/game-project)
 
 ## My Libraries
