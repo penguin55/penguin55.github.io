@@ -1,5 +1,7 @@
 title: Robertus Dwi Ari Utomo
 logo: "/images/ari.jpg?raw=true"
+favicon: "/images/favicon.ico?raw=true"
+minimal_mistakes_skin: "dark"
 description:
   <br>
   Student at <b>Faculty of Computer Science, Brawijaya's University </b>
