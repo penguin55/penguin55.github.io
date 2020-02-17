@@ -1,7 +1,6 @@
 title: Robertus Dwi Ari Utomo
 logo: "/images/ari.jpg?raw=true"
-favicon: "/images/favicon.ico?raw=true"
-minimal_mistakes_skin: "dark"
+favicon: /images/favicon.png
 description:
   <br>
   Student at <b>Faculty of Computer Science, Brawijaya's University </b>
@@ -9,3 +8,4 @@ description:
   <a href = "https://globalgamejam.org/users/corta55"> Global Game Jam Profile </a>
 
 theme: jekyll-theme-minimal
+minimal_mistakes_skin: "dark"
