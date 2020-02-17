@@ -1,8 +1,6 @@
 # About Me
 
-Hi, you. I'm a **Game Programmer** which focus in developing 2D game with Unity. I love exploring a lot of new things about optimizing in game engine and programming itself. 
-I have a dream to makes a game engines by myself or maybe if i have a team for it, I love to makes a plugin/library about game development in Unity, I made it to simplify in the development of other games for myself or maybe other which needs something that i made.
-This is my portfolio about my journey in Game Development, I Hope you enjoy it.
+Hi, you. I'm a **Game Programmer** that focuses on developing a 2D game with Unity. I love exploring a lot of new things about optimizing in a game engine and programming itself. I have a dream to makes a game engine by myself or maybe if I have a team for it, I love to make a plugin/library about game development in Unity, I made it simplify in the development of other games for myself or maybe other which needs something that I made. This is my portfolio about my journey in Game Development, I hope you enjoy it.
 
 ***
 # Table of Contents
