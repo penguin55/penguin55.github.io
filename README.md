@@ -42,12 +42,25 @@ I also tried some other game engines, such as the Phaser engine and JavaScript f
 
 ![Image](/images/teamggjsurabaya2018.jpg)
 
-In this Game Jam, I trying to be a UI Programmer to make a Game with the main theme "Transmission"
+In this Game Jam, I trying to be a UI Programmer to make a 2D Game with the main theme "Transmission".
+This game jam is make me know more about how to be a good programmer, because in my team there are
+experienced game programmer. So, I can learns more from him about how to code game's mechanic.
 
 #### Global Game Jam 2019 Jogja
+
+![Image](/images/teamggjjogja2019.jpg)
+
+With the main theme "What home means to you", my team has an briliant ideas to make a horror puzzle game
+with voice detection to help players when the time will run out. In this year I still became UI Programmer but
+I also handle some code other than UI code, such as voice detection and environment programming to help my other mechanic programmer in my team. 
+
 #### GameJam On
 #### Hackjam
 #### Global Game Jam 2020 Surabaya
+
+![Image](/images/teamggjsurabaya2020.jpg)
+
+Global game jam 2020 is an awesome 
 
 ***
 
