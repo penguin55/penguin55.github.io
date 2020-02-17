@@ -40,8 +40,8 @@ I also tried some other game engines, such as the Phaser engine and JavaScript f
 
 ![Image](/images/teamggjsurabaya2018.jpg)
 
-In this Game Jam, I trying to be a UI Programmer to make a 2D Game with the main theme "Transmission".
-This game jam is make me know more about how to be a good programmer, because in my team there are
+In this Game Jam, I trying to be an UI Programmer to make a 2D Game with the main theme "Transmission".
+This game jam is make me know more about how to be a real game programmer, because in my team there are
 experienced game programmer. So, I can learns more from him about how to code game's mechanic.
 
 #### Global Game Jam 2019 Jogja
@@ -52,21 +52,36 @@ With the main theme "What home means to you", my team has an briliant ideas to m
 with voice detection to help players when the time will run out. In this year I still became UI Programmer but
 I also handle some code other than UI code, such as voice detection and environment programming to help my other mechanic programmer in my team. 
 
-#### Simmer Game Jam
+#### SIMMERJam
 
-Simmer Game Jam is an Online Game Jam that organized by [Simmer.io](https://simmer.io/) on May 2019.
+SIMMERJam is an Online Game Jam that organized by [Simmer.io](https://simmer.io/) on May 2019. The main theme on this game jam is "Minimalism" with an emphasis on using just 2 colors or shades.
+I'm working on this game jam with only programmer in one team, because I want to know how far I can collaborate with other programmer
+to make a simple game. For the result of this game jam, I starts to learn how to be a good programmer to code a program that easily other programmer to
+read and understand with what I do. 
+
 
 #### Hackjam
+
+![Image](/images/teamhackjam2019.jpg)
+
+Hackjam is a Hackathon and Game Jam events that held at the same time by Raion Community for its member who focus
+on apps or game development. With an awesome team, I can make a game with unique mechanic and got a favorite team nomination.
+From this I can learn how to think and works in team that can make an awesome game mechanics. 
+
 #### Global Game Jam 2020 Surabaya
 
 ![Image](/images/teamggjsurabaya2020.jpg)
 
-Global game jam 2020 is an awesome 
+This is a memorable Global Game Jam event for me, because I try something that I think is impossible for me but I can do it. 
+At the time of this event I developed a 3D game for the first time since I focused on game development. 
+My team making games like space engineer with a simple mechanic for this year's theme "Repair". From this GGJ I can learn something important 
+to never give up even though it looks impossible to do with myself.
 
 ***
 
 ## Game Projects
 
 ***
+[Click this Link](/game-project)
 
 ## My Libraries
