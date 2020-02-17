@@ -6,7 +6,7 @@
 
 ![Cirlce](/images/lib/translate-inside-a-circle.gif)
 
-It's my first time to post this movement, just want to do this things. This is a step how to translate an object to keep 
+It's my first time to post this movement, just want to do this things. This is steps how to translate an object to keep 
 inside a circle by restrict movement by a radius. You can check this function from link bellow
 
 Link : [Translate an Object Inside a Circle](https://gist.github.com/penguin55/50c5f6c9ff3b7ebae971727e298c5aed)
