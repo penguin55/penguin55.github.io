@@ -81,6 +81,17 @@ to never give up even though it looks impossible to do with myself.
 
 ## Game Projects
 
+#### Spacecraft Impact
+
+![Image](/images/game/spacecraft-impact.png)
+
+Spacecraft Impact is my first 3D game, developed at Global Game Jam 2020 on Surabaya. With the theme "Repair" for this year and inspired
+from Space Engineer and Dead By Dead By Daylight game, my team has an idea to develops this game. The player must
+protect the spacecraft and repair it when the part is broken. 
+
+[Read More](/game-project)
+
+
 ***
 [Click this Link](/game-project)
 

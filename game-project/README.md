@@ -1,7 +1,30 @@
-[Click Back](../)
+[Click To Back](../)
 
-# About Me
+***
 
-Hi, you. I'm a **Game Programmer** that focuses on developing a 2D game with Unity. I love exploring a lot of new things about optimizing in a game engine and programming itself. I have a dream to makes a game engine by myself or maybe if I have a team for it, I love to make a plugin/library about game development in Unity, I made it simplify in the development of other games for myself or maybe other which needs something that I made. This is my portfolio about my journey in Game Development, I hope you enjoy it.
+# Gadget Factory
+
+![Image](/images/game/gadget-factory.png)
+
+Gadget Factory is a casual game that develops for Global Game Jam 2018 on Surabaya.
+With simple mechanics to package still good computer components and destroy defective 
+products during production. With the theme  "Transmission " and inspired by the rail system 
+that changed line 1 to other lines, our team got the idea to create a Gadget Factory with the same mechanism.
+
+Link : [Gadget Factory](https://globalgamejam.org/2018/games/gadget-factory)
+
+***
+
+
+# Gadget Factory
+
+![Image](/images/game/gadget-factory.png)
+
+Gadget Factory is a casual game that develops for Global Game Jam 2018 on Surabaya.
+With simple mechanics to package still good computer components and destroy defective 
+products during production. With the theme  "Transmission " and inspired by the rail system 
+that changed line 1 to other lines, our team got the idea to create a Gadget Factory with the same mechanism.
+
+Link : [Gadget Factory](https://globalgamejam.org/2018/games/gadget-factory)
 
 ***
