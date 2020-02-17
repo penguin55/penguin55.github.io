@@ -62,7 +62,7 @@ read and understand with what I do.
 
 #### Hackjam
 
-![Image](/images/teamhackjam2019.jpg)
+![Image](/images/teamhackjam2019.JPG)
 
 Hackjam is a Hackathon and Game Jam events that held at the same time by Raion Community for its member who focus
 on apps or game development. With an awesome team, I can make a game with unique mechanic and got a favorite team nomination.
