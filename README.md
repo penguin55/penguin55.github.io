@@ -39,6 +39,11 @@ I also tried some other game engines, such as the Phaser engine and JavaScript f
 ## My Game Jam History
 
 #### Global Game Jam 2018 Surabaya
+
+![Image](/images/teamggjsurabaya2018.jpg)
+
+In this Game Jam, I trying to be a UI Programmer to make a Game with the main theme "Transmission"
+
 #### Global Game Jam 2019 Jogja
 #### GameJam On
 #### Hackjam
