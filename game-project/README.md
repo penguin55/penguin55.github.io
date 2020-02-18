@@ -84,13 +84,13 @@ Link : [Supeltas](#)
 
 ***
 
-# Neon Pong
+# Super Pong Neon
 
-![Image](/images/game/neon-pong.png)
+![Image](/images/game/super-pong-neon.png)
 
 
 
-Link : [Neon Pong](#)
+Link : [Super Pong Neon](#)
 
 ***
 
@@ -100,7 +100,7 @@ Link : [Neon Pong](#)
 
 
 
-Link : [Strofos](#)
+Link : [Strofos](https://simmer.io/@ariutomo/strofos)
 
 ***
 
