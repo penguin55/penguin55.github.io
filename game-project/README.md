@@ -118,6 +118,7 @@ box-shaped finish with a circle inside. You will die and return to the starting 
 that you will lose your time by 2 seconds in the area.
 
 Status : Prototype
+
 Link : [Strofos](https://simmer.io/@ariutomo/strofos)
 
 ***
