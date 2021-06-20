@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tax_Please",
+"productVersion": "1.0",
+"dataUrl": "Pajak.data.unityweb",
+"wasmCodeUrl": "Pajak.wasm.code.unityweb",
+"wasmFrameworkUrl": "Pajak.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.22f1"
+}
