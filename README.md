@@ -1,64 +1,58 @@
 # About Me
 
-Hi, you. I'm a **Game Programmer** that focuses on developing a 2D game with Unity. I love exploring a lot of new things about optimizing in a game engine and programming itself. I have a dream to makes a game engine by myself or maybe if I have a team for it, I love to make a plugin/library about game development in Unity, I made it simplify in the development of other games for myself or maybe other which needs something that I made. This is my portfolio about my journey in Game Development, I hope you enjoy it.
+![Update Date](https://img.shields.io/badge/-Updated%20on%20April%2013%2C%202022-brightgreen) <br>
+
+Halo. Saya seorang **Game Programmer** yang berfokus pada pengembangan game menggunakan Unity Engine. Saat ini saya senang dalam mengeksplorasi banyak hal mengenai optimasi didalam game maupun game engine. Saya memiliki mimpi untuk dapat membuat game engine sendiri maupun dalam tim, oleh karena itu saya membuat beberapa plugin reusable yang dapat saya gunakan kembali dalam projek game selanjutnya ataupun dibagikan kepada orang yang membutuhkan plugin tersebut. Ini adalah portofolio singkat saya sebagai seorang **Game Programmer**.
 
 ***
 # Table of Contents
-* [My Journey in Game Development](#my-journey-in-game-development)
-    * [Where I Start my Journey](#where-i-start-my-journey)
-    * [My First Global Game Jam](#my-first-global-game-jam)
-    * [Tools that I use](#tools-that-i-use)
-* [My Game Jam History](#my-game-jam-history)
+* [Perjalananku Menjadi Game Programmer](#perjalananku-menjadi-game-programmer)
+    * [Pintu Awal Menjadi Game Programmer](#pintu-awal-menjadi-game-programmer)
+    * [Pengalaman Pertama](#pengalaman-pertama)
+    * [Kontribusi Pertama](#kontribusi-pertama)
+* [Pengalaman Game Jam](#pengalaman-game-jam)
     * [Global Game Jam 2018 Surabaya](#global-game-jam-2018-surabaya)
     * [Global Game Jam 2019 Jogja](#global-game-jam-2019-jogja)
+    * [SIMMERJam](#simmerjam)
+    * [Hackjam](#hackjam)
     * [Global Game Jam 2020 Surabaya](#global-game-jam-2020-surabaya)
-* [Game Projects](#game-projects)
-* [My Libraries](#my-libraries)
+    * [IGSI Gamejam 2020 Fun From Home](#igsi-gamejam-2020-fun-from-home)
+    * [IGSI Gamejam 2020 Roadshow](#igsi-gamejam-2020-roadshow)
+    * [Global Game Jam 2022 Malang](#global-game-jam-2022-malang)
+* [Projek Game](#projek-game)
+* [Plugin](#plugin)
 
 ***
 
-## My Journey in Game Development
-#### Where I Start my Journey
-I start my journey on the late 2017 by take the academy from Raion Community about Game Programming in 2D Game Development.
-From the Raion's academy I've been learn about how to code UI in Game and simple mechanic to generate random position
-of an object.
+## Perjalananku Menjadi Game Programmer
+#### Pintu Awal Menjadi Game Programmer
+Saya memulai perjalananku menjadi Game Programmer dimulai pada akhir tahun 2017 dengan mengambil kursus game yang diadakan oleh Raion Community salah satu Lembaga Semi Otonom yang berada pada Fakultas Ilmu Komputer, Universitas Brawijaya. Dari kursus yang diadakan oleh Raion saya telah mempelajari bagaimana melakukan koding UI didalam Game dan membuat mekanik sederhana untuk mendapatkan posisi acak dalam waktu tertentu.
 
-#### My First Global Game Jam
-I'm an optimistic person about my skill in programming, on the early years 2018 and a month since I learned about game programming, I've attended Global Game Jam 2018 on Surabaya.
-I believe that if I have a courage to step forward, I would be better than before. Because of that, I take my step to attended my first
-Global Game Jam although I just learns about Game programming one month ago at that time.
+#### Pengalaman Pertama
+Saya memiliki rasa optimis tinggi terhadap apa yang telah saya kuasai dalam programming dalam game, pada awal tahun 2018 tepat sebulan setelah kursus yang saya ikuti dari Raion, saya memberanikan diri untuk mengikuti event Gamejam pertama saya pada acara Global Game Jam 2018 yang diadakan pada kota Surabaya berlokasi pada salah satu gedung Politeknik Elektronika Negri Surabaya. Saya percaya bahwa keberanian untuk tetap melangkah maju akan membentuk jati diri yang lebih baik. 
 
-#### Tools that I use
-I've been use Unity Engine 2 years from my first academy at Raion Community. Unity Engine is friendly to use, easy to learn because have a big community.
-I also tried some other game engines, such as the Phaser engine and JavaScript from scratch. I just tried it in the last 2 months to create a simulation game genre. 
+#### Kontribusi Pertama
+Nightsapde Studio merupakan game studio yang berdomisili di Bandung dengan bisnis utamanya adalah membuat game untuk klien. Pada saat melakukan magang di Nightspade saya berada pada posisi Junior Game Programmer yang bertanggung jawab pada project game bernamakan **Bumi**. Game **Bumi** merupakan game hasil kerja sama antara Nightspade dengan salah satu klien yang berasal dari Swedia. Tugas saya pada projek game **Bumi** adalah merombak salah satu level yang awal mulanya 2D menjadi 3D dengan asset yang sudah disediakan oleh mahasiswa magang lainnya. Hasil dari magang saya menyelesaikan level sesuai dengan permintaan dalam waktu kontrak magang selama 3 bulan kerja.
 
 ***
 
-## My Game Jam History
+## Pengalaman Game Jam
 
 #### Global Game Jam 2018 Surabaya
 
 ![Image](/images/teamggjsurabaya2018.jpg)
 
-In this Game Jam, I trying to be an UI Programmer to make a 2D Game with the main theme "Transmission".
-This game jam is make me know more about how to be a real game programmer, because in my team there are
-experienced game programmer. So, I can learns more from him about how to code game's mechanic.
+Dalam acara game jam ini saya mencoba untuk menjadi seorang UI Programmer untuk membuat game dengan tema **"Transmission"**. Tim saya terdapat programmer yang sudah memiliki pengalaman baik tentang pengembangan game sehingga membuat saya mengetahui banyak hal mengenai game programmer dalam kasus nyata pembuatan game baik dalam posisi saya sebagai UI Programmer maupun sebagai Gameplay Programmer. 
 
 #### Global Game Jam 2019 Jogja
 
 ![Image](/images/teamggjjogja2019.jpg)
 
-With the main theme "What home means to you", my team has an briliant ideas to make a horror puzzle game
-with voice detection to help players when the time will run out. In this year I still became UI Programmer but
-I also handle some code other than UI code, such as voice detection and environment programming to help my other mechanic programmer in my team. 
+Game jam pada tahun 2019 memiliki tema **"What home means to you"**, tim saya memiliki ide untuk membuat suatu game yang memanfaatkan suara dari player untuk membantu progres didalam game, sehingga tim saya membuat sebuah game horor puzzle dengan deteksi suara teriakan dari player untuk membantu player menghadapai ketakutannya. Pada tahun ini saya menjadi UI Programmer dan menangani deteksi teriakan player begitu juga environment programming untuk membantu programmer lain di tim saya. 
 
 #### SIMMERJam
 
-SIMMERJam is an Online Game Jam that organized by [Simmer.io](https://simmer.io/) on May 2019. The main theme on this game jam is "Minimalism" with an emphasis on using just 2 colors or shades.
-I'm working on this game jam with only programmer in one team, because I want to know how far I can collaborate with other programmer
-to make a simple game. For the result of this game jam, I starts to learn how to be a good programmer to code a program that easily other programmer to
-read and understand with what I do. 
-
+SIMMERJam adalah game jam online pertama yang saya ikuti yang diadakan oleh [Simmer.io](https://simmer.io/) pada Mei 2019. Game jam ini bertemakan **"Minimalism"** dengan batasan hanya menggunakan 2 warna saja untuk penggunaan asset dari game. Saya hanya berkelompok dengan 2 orang yang mana keduanya adalah programmer, di game jam ini saya menguji sejauh mana kemampuan saya dalam kolaborasi bersama programmer lain dalam membuat game tentunya juga dalam penggunaan GitHub sebagai salah satu version control yang wajib dikuasai. Setelah game jam ini berakhir saya dapat mempelajari untuk membuat sebuah kodingan yang dapat juga dipahami oleh programmer lain, sehingga saya mulai mengikuti Code Convention sebagai acuan utama dalam melakukan koding game.
 
 #### Hackjam
 
@@ -71,6 +65,27 @@ From this I can learn how to think and works in team that can make an awesome ga
 #### Global Game Jam 2020 Surabaya
 
 ![Image](/images/teamggjsurabaya2020.jpg)
+
+This is a memorable Global Game Jam event for me, because I try something that I think is impossible for me but I can do it. 
+At the time of this event I developed a 3D game for the first time since I focused on game development. 
+My team making games like space engineer with a simple mechanic for this year's theme "Repair". From this GGJ I can learn something important 
+to never give up even though it looks impossible to do with myself.
+
+#### IGSI Gamejam 2020 Fun From Home
+
+This is a memorable Global Game Jam event for me, because I try something that I think is impossible for me but I can do it. 
+At the time of this event I developed a 3D game for the first time since I focused on game development. 
+My team making games like space engineer with a simple mechanic for this year's theme "Repair". From this GGJ I can learn something important 
+to never give up even though it looks impossible to do with myself.
+
+#### IGSI Gamejam 2020 Roadshow
+
+This is a memorable Global Game Jam event for me, because I try something that I think is impossible for me but I can do it. 
+At the time of this event I developed a 3D game for the first time since I focused on game development. 
+My team making games like space engineer with a simple mechanic for this year's theme "Repair". From this GGJ I can learn something important 
+to never give up even though it looks impossible to do with myself.
+
+#### Global Game Jam 2022 Malang
 
 This is a memorable Global Game Jam event for me, because I try something that I think is impossible for me but I can do it. 
 At the time of this event I developed a 3D game for the first time since I focused on game development. 
