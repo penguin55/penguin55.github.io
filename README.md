@@ -20,7 +20,7 @@ Halo. Saya seorang **Game Programmer** yang berfokus pada pengembangan game meng
     * [IGSI Gamejam 2020 Roadshow](#igsi-gamejam-2020-roadshow)
     * [Global Game Jam 2022 Malang](#global-game-jam-2022-malang)
 * [Projek Game](#projek-game)
-* [Plugin](#plugin)
+* [Projek Plugin](#projek-plugin)
 
 ***
 
@@ -38,89 +38,97 @@ Nightsapde Studio merupakan game studio yang berdomisili di Bandung dengan bisni
 
 ## Pengalaman Game Jam
 
-#### Global Game Jam 2018 Surabaya
+### Global Game Jam 2018 Surabaya
 
 ![Image](/images/teamggjsurabaya2018.jpg)
 
-Dalam acara game jam ini saya mencoba untuk menjadi seorang UI Programmer untuk membuat game dengan tema **"Transmission"**. Tim saya terdapat programmer yang sudah memiliki pengalaman baik tentang pengembangan game sehingga membuat saya mengetahui banyak hal mengenai game programmer dalam kasus nyata pembuatan game baik dalam posisi saya sebagai UI Programmer maupun sebagai Gameplay Programmer. 
+Game&nbsp;&nbsp;&nbsp;&nbsp;: [Gadget Factory](/gameproject/#gadget-factory) <br>
+Tanggal&nbsp;: 26 Januari - 28 Januari 2022 <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rahmat Ansori [Programmer]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Robertus Dwi Ari Utomo [Programmer]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Riyan Maulana [Programmer]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faris Muhtadi [Artist]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hernando Permadi [Desainer Game dan Composer]<br>
 
-#### Global Game Jam 2019 Jogja
+
+### Global Game Jam 2019 Jogja
 
 ![Image](/images/teamggjjogja2019.jpg)
 
-Game jam pada tahun 2019 memiliki tema **"What home means to you"**, tim saya memiliki ide untuk membuat suatu game yang memanfaatkan suara dari player untuk membantu progres didalam game, sehingga tim saya membuat sebuah game horor puzzle dengan deteksi suara teriakan dari player untuk membantu player menghadapai ketakutannya. Pada tahun ini saya menjadi UI Programmer dan menangani deteksi teriakan player begitu juga environment programming untuk membantu programmer lain di tim saya. 
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
 
-#### SIMMERJam
+### SIMMERJam
 
-SIMMERJam adalah game jam online pertama yang saya ikuti yang diadakan oleh [Simmer.io](https://simmer.io/) pada Mei 2019. Game jam ini bertemakan **"Minimalism"** dengan batasan hanya menggunakan 2 warna saja untuk penggunaan asset dari game. Saya hanya berkelompok dengan 2 orang yang mana keduanya adalah programmer, di game jam ini saya menguji sejauh mana kemampuan saya dalam kolaborasi bersama programmer lain dalam membuat game tentunya juga dalam penggunaan GitHub sebagai salah satu version control yang wajib dikuasai. Setelah game jam ini berakhir saya dapat mempelajari untuk membuat sebuah kodingan yang dapat juga dipahami oleh programmer lain, sehingga saya mulai mengikuti Code Convention sebagai acuan utama dalam melakukan koding game.
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
 
-#### Hackjam
+### Hackjam
 
 ![Image](/images/teamhackjam2019.JPG)
 
-Hackjam is a Hackathon and Game Jam events that held at the same time by Raion Community for its member who focus
-on apps or game development. With an awesome team, I can make a game with unique mechanic and got a favorite team nomination.
-From this I can learn how to think and works in team that can make an awesome game mechanics. 
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
 
-#### Global Game Jam 2020 Surabaya
+### Global Game Jam 2020 Surabaya
 
 ![Image](/images/teamggjsurabaya2020.jpg)
 
-This is a memorable Global Game Jam event for me, because I try something that I think is impossible for me but I can do it. 
-At the time of this event I developed a 3D game for the first time since I focused on game development. 
-My team making games like space engineer with a simple mechanic for this year's theme "Repair". From this GGJ I can learn something important 
-to never give up even though it looks impossible to do with myself.
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
 
-#### IGSI Gamejam 2020 Fun From Home
+### IGSI Gamejam 2020 Fun From Home
 
-This is a memorable Global Game Jam event for me, because I try something that I think is impossible for me but I can do it. 
-At the time of this event I developed a 3D game for the first time since I focused on game development. 
-My team making games like space engineer with a simple mechanic for this year's theme "Repair". From this GGJ I can learn something important 
-to never give up even though it looks impossible to do with myself.
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
 
-#### IGSI Gamejam 2020 Roadshow
+### IGSI Gamejam 2020 Roadshow
 
-This is a memorable Global Game Jam event for me, because I try something that I think is impossible for me but I can do it. 
-At the time of this event I developed a 3D game for the first time since I focused on game development. 
-My team making games like space engineer with a simple mechanic for this year's theme "Repair". From this GGJ I can learn something important 
-to never give up even though it looks impossible to do with myself.
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
 
-#### Global Game Jam 2022 Malang
-
-This is a memorable Global Game Jam event for me, because I try something that I think is impossible for me but I can do it. 
-At the time of this event I developed a 3D game for the first time since I focused on game development. 
-My team making games like space engineer with a simple mechanic for this year's theme "Repair". From this GGJ I can learn something important 
-to never give up even though it looks impossible to do with myself.
+### Global Game Jam 2022 Malang
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: 20 Januari 2022 - 30 Januari 2022 <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
 
 ***
 
-## Game Projects
+## Projek Game
 
-I made a lot of game, this is my game projects from game jam, competition, course, commission and just for self-development.
+Saya membuat banyak game, ini adalah kumpulan game yang telah saya buat dari game jam, kompetisi, kursus, dan komisi.
 
 #### Spacecraft Impact
 
 ![Image](/images/game/spacecraft-impact.png)
 
-Spacecraft Impact is my first 3D game, developed at Global Game Jam 2020 on Surabaya. With the theme "Repair" for this year and inspired
-from Space Engineer and Dead By Dead By Daylight game, my team has an idea to develops this game. The player must
-protect the spacecraft and repair it when the part is broken. 
+
 
 [Read More](/game-project)
 
 
 ***
 
-## My Libraries
+## Projek Plugin
 
-I'm trying to make a lot of game libraries to facilitate the development of games in Unity Engine both for me and others who need it.
-Hopefully this helps you
+Saya mencoba untuk membuat banyak plugin dan library game untuk memfasilitasi dan memudahkan pengembangan game kedepannya yang saya lakukan dengan menggunakan game engine Unity. 
 
 #### Audio Loops
 
-Audio Loops is a plugin for Unity Engine which I develops to help you with playing an audio game with loops at specific time you want. 
-Unity Engine can actually perform audio looping with Audio Source Component, but if you wants loop at specific time or maybe wants to play an audio
-at specific time you have to code a bit more complex, by defining where you want to repeat or manually by setting up the clipped audio.
-In this libraries there's a function for that, so you don't have to think about it anymore. You only need to use the function in accordance with the documentation listed. 
+Audio Loop adalah plugin untuk Unity Engine yang saya kembangkan untuk membantu memutar sebuah audio game dengan perulangan pada waktu spesifik yang diinginkan. Unity Engine sebenernya dapat melakukan pekerjaan ini dengan memutar audio berulang melalui komponen Audio Source, tetapi jika ingin memutar audio berulang pada waktu yang spesifik dalam audio file tersebut maka dibutuhkan koding yang sedikit lebih kompleks untuk mendefinisikan sendiri dimana audio ingin diulang atau dengan manual memotong audio file melalui third party audio lain. Di dalam library / plugin ini, sudah ada fungsi tersebut sehingga untuk mengulang audio dengan spesifik waktu cukup panggil fungsi tersebut, untuk cara menggunakannya teradapat dokumentasi yang sudah tertera pada link repository.
 
 [Read More](/game-lib)
