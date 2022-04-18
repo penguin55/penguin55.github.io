@@ -47,6 +47,21 @@
 
 ***
 
+# Bumi
+
+![Image](/images/game/bumi.png)
+
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Bumi                                                 |
+| Waktu Develop | Juli 2020 - September 2020                           |
+| Status        | Projek Magang Nightspade                             |
+| Platform      | Android                                              |
+| Link Projek   | Tidak tersedia                                       |
+| Detail Projek | Bumi merupakan projek internal Nightspade dengan bekerjasama oleh salah satu perusahaan Swedia untuk membuat game android bertemakan lingkungan dengan mengusung cerita alien datang ke bumi untuk membantu manusia dalam membersihkan sampah yang diproduksi oleh manusia. Pada projek ini saya berkontribusi menjadi **Programmer Utama** yang menangani pembuatan ulang level dari 2D menjadi 3D pada menu utama dan level pemilahan sampah. |
+
+***
+
 # Super Janitor Bros
 
 ![Image](/images/game/super-janitor-bros.png)
