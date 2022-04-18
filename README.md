@@ -32,12 +32,14 @@ Nightspade Studio merupakan game studio yang berdomisili di Bandung dengan bisni
 
 ### Global Game Jam 2022 Malang
 
+![GGJ 2022](/images/globalgamejam2022.png)
 
-
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: 20 Januari 2022 - 30 Januari 2022 <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
+|              |                                           |
+| ------------ | ----------------------------------------- |
+| Game         | [Paralel Universe](../game-project/#paralel-universe)                                      |
+| Tanggal      | 20 Januari 2022 - 30 Januari 2022         |
+| Berita acara | [GGJ 2022](https://globalgamejam.org/2022/jam-sites/global-game-jam-jatim-2022-site-malang) |
+| Team         | [Bayu Reza Gunawan](https://github.com/Bazureza) **[2D Artist]**<br> [Mujiburrahman Haekal Fajry](https://www.linkedin.com/in/haekalary/) **[Project Manager]**<br> [Robertus Dwi Ari Utomo](https://penguin55.github.io) **[Programmer]**<br> |
 
 [Read More](/gamejam)
 
