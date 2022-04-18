@@ -75,7 +75,7 @@
 | Game         | [Wallhook](../game-project/#wallhook)     |
 | Tanggal      | 26 April 2019 - 28 April 2019             |
 | Berita acara | [Hackjam 2019]() |
-| Team         | [Gusti Rahman Pariska Ajitama]() **[2D Artist]**<br> [Hamdani Al Ikhsan](https://www.linkedin.com/in/hamdani-al-ikhsan-793a38183/) **[2D Artist]**<br> [Ians Adji Adhitama](https://www.linkedin.com/in/ians-adji-adhitama/) **[Game Designer]**<br> [Robertus Dwi Ari Utomo](https://penguin55.github.io) **[Programmer]**<br> [Winda Putri Hapsari](https://www.linkedin.com/in/winda-putri-hapsari/?originalSubdomain=id) **[Programmer]**<br> |
+| Team         | [Gusti Rahman Pariska Ajitama](https://www.linkedin.com/in/aji-tama-474b47169/) **[2D Artist]**<br> [Hamdani Al Ikhsan](https://www.linkedin.com/in/hamdani-al-ikhsan-793a38183/) **[2D Artist]**<br> [Ians Adji Adhitama](https://www.linkedin.com/in/ians-adji-adhitama/) **[Game Designer]**<br> [Robertus Dwi Ari Utomo](https://penguin55.github.io) **[Programmer]**<br> [Winda Putri Hapsari](https://www.linkedin.com/in/winda-putri-hapsari/?originalSubdomain=id) **[Programmer]**<br> |
 
 <br>
 
