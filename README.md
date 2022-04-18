@@ -72,8 +72,15 @@ Berikut adalah beberapa kontribusi saya sebagai programmer pada projek game baik
 
 Saya mencoba untuk membuat banyak plugin dan library game untuk memfasilitasi dan memudahkan pengembangan game kedepannya yang saya lakukan dengan menggunakan game engine Unity. 
 
-#### Audio Loops
+#### Water Allside
 
-Audio Loop adalah plugin untuk Unity Engine yang saya kembangkan untuk membantu memutar sebuah audio game dengan perulangan pada waktu spesifik yang diinginkan. Unity Engine sebenernya dapat melakukan pekerjaan ini dengan memutar audio berulang melalui komponen Audio Source, tetapi jika ingin memutar audio berulang pada waktu yang spesifik dalam audio file tersebut maka dibutuhkan koding yang sedikit lebih kompleks untuk mendefinisikan sendiri dimana audio ingin diulang atau dengan manual memotong audio file melalui third party audio lain. Di dalam library / plugin ini, sudah ada fungsi tersebut sehingga untuk mengulang audio dengan spesifik waktu cukup panggil fungsi tersebut, untuk cara menggunakannya teradapat dokumentasi yang sudah tertera pada link repository.
+![WA](/images/lib/water-allside.gif)
+
+|             |                    |
+| ----------- | ------------------ |
+| Status      | Dalam pengembangan |
+| Link        | Tidak tersedia     | 
+
+Simulasi air dengan memanfaatkan semua sisi bangun saat berinteraksi dengan objek. (Tidak hanya sisi atas / 1 sisi melainkan semua sisi dari bangun objek air) 
 
 [Read More](/game-lib)
