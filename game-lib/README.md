@@ -13,6 +13,17 @@
 
 Simulasi air dengan memanfaatkan semua sisi bangun saat berinteraksi dengan objek. (Tidak hanya sisi atas / 1 sisi melainkan semua sisi dari bangun objek air) 
 
+### Penggunaan
+
+<details>
+<summary>Floating Water di Faerie Afterlight</summary>
+ <img src="/images/lib/floating-water.gif"> </img>
+</details>
+<details>
+<summary>3D Water di Faerie Afterlight</summary>
+ <img src="/images/lib/3d-water.gif"> </img>
+</details>
+
 ***
 
 # Audio Loops
