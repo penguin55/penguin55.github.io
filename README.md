@@ -11,14 +11,6 @@ Halo. Saya seorang **Game Programmer** yang berfokus pada pengembangan game meng
     * [Pengalaman Pertama](#pengalaman-pertama)
     * [Kontribusi Pertama](#kontribusi-pertama)
 * [Pengalaman Game Jam](#pengalaman-game-jam)
-    * [Global Game Jam 2018 Surabaya](#global-game-jam-2018-surabaya)
-    * [Global Game Jam 2019 Jogja](#global-game-jam-2019-jogja)
-    * [SIMMERJam](#simmerjam)
-    * [Hackjam](#hackjam)
-    * [Global Game Jam 2020 Surabaya](#global-game-jam-2020-surabaya)
-    * [IGSI Gamejam 2020 Fun From Home](#igsi-gamejam-2020-fun-from-home)
-    * [IGSI Gamejam 2020 Roadshow](#igsi-gamejam-2020-roadshow)
-    * [Global Game Jam 2022 Malang](#global-game-jam-2022-malang)
 * [Projek Game](#projek-game)
 * [Projek Plugin](#projek-plugin)
 
@@ -38,74 +30,16 @@ Nightspade Studio merupakan game studio yang berdomisili di Bandung dengan bisni
 
 ## Pengalaman Game Jam
 
-### Global Game Jam 2018 Surabaya
-
-![Image](/images/teamggjsurabaya2018.jpg)
-
-Game&nbsp;&nbsp;&nbsp;&nbsp;: [Gadget Factory](/gameproject/#gadget-factory) <br>
-Tanggal&nbsp;: 26 Januari - 28 Januari 2022 <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rahmat Ansori [Programmer]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Robertus Dwi Ari Utomo [Programmer]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Riyan Maulana [Programmer]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faris Muhtadi [Artist]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hernando Permadi [Desainer Game dan Composer]<br>
-
-[Read More](/gamejam)
-
-### Global Game Jam 2019 Jogja
-
-![Image](/images/teamggjjogja2019.jpg)
-
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
-
-### SIMMERJam
-
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
-
-### Hackjam
-
-![Image](/images/teamhackjam2019.JPG)
-
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
-
-### Global Game Jam 2020 Surabaya
-
-![Image](/images/teamggjsurabaya2020.jpg)
-
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
-
-### IGSI Gamejam 2020 Fun From Home
-
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
-
-### IGSI Gamejam 2020 Roadshow
-
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
-
 ### Global Game Jam 2022 Malang
+
+
+
 Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
 Tanggal&nbsp;: 20 Januari 2022 - 30 Januari 2022 <br>
 Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
+
+[Read More](/gamejam)
 
 ***
 
