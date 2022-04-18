@@ -47,13 +47,20 @@ Nightspade Studio merupakan game studio yang berdomisili di Bandung dengan bisni
 
 ## Projek Game
 
-Saya membuat banyak game, ini adalah kumpulan game yang telah saya buat dari game jam, kompetisi, kursus, dan komisi.
+Berikut adalah beberapa kontribusi saya sebagai programmer pada projek game baik projek dari game jam, kompetisi, kursus, dan komisi.
 
-#### Spacecraft Impact
+#### Faerie Afterlight
 
-![Image](/images/game/spacecraft-impact.png)
+![Image](/images/game/faerie-afterlight.png)
 
-
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Faerie Afterlight                                    |
+| Masa Kerja    | Januari 2021 - sekarang                              |
+| Status        | Sedang tahap pengerjaan                              |
+| Platform      | Windows                                              |
+| Link Projek   | [Wishlist Now! Faerie Afterlight on Steam](https://store.steampowered.com/app/1415280/Faerie_Afterlight/) |
+| Detail Projek | Faerie Afterlight dikembangkan oleh Clay Game Studio, saya bertanggung jawab pada posisi Programmer pada projek game ini. |
 
 [Read More](/game-project)
 
