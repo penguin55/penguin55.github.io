@@ -2,73 +2,101 @@
 
 ***
 
-## Global Game Jam 2018 Surabaya
+# Daftar Isi
+* [Global Game Jam 2022 Malang](#global-game-jam-2022-malang)
+* [IGSI Gamejam 2020 Roadshow](#igsi-gamejam-2020-roadshow)
+* [IGSI Gamejam 2020 Fun From Home](#igsi-gamejam-2020-fun-from-home)
+* [Global Game Jam 2020 Surabaya](#global-game-jam-2020-surabaya)
+* [Hackjam](#hackjam)
+* [SIMMERJam](#simmerjam)
+* [Global Game Jam 2019 Jogja](#global-game-jam-2019-jogja)
+* [Global Game Jam 2018 Surabaya](#global-game-jam-2018-surabaya)
 
-![Image](/images/teamggjsurabaya2018.jpg)
+***
 
-Game&nbsp;&nbsp;&nbsp;&nbsp;: [Gadget Factory](../gameproject/#gadget-factory) <br>
-Tanggal&nbsp;: 26 Januari - 28 Januari 2022 <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rahmat Ansori [Programmer]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Robertus Dwi Ari Utomo [Programmer]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Riyan Maulana [Programmer]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faris Muhtadi [Artist]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hernando Permadi [Desainer Game dan Composer]<br>
+## Global Game Jam 2022 Malang
 
-[Read More](/gamejam)
+![GGJ 2022](/images/globalgamejam2022.png)
 
-## Global Game Jam 2019 Jogja
+|              |                                           |
+| ------------ | ----------------------------------------- |
+| Game         | [Paralel Universe](../game-project/#paralel-universe)                                      |
+| Tanggal      | 20 Januari 2022 - 30 Januari 2022         |
+| Berita acara | [GGJ 2022](https://globalgamejam.org/2022/jam-sites/global-game-jam-jatim-2022-site-malang) |
+| Team         | [Bayu Reza Gunawan](https://github.com/Bazureza) **[2D Artist]**<br> [Mujiburrahman Haekal Fajry](https://www.linkedin.com/in/haekalary/) **[Project Manager]**<br> [Robertus Dwi Ari Utomo](https://penguin55.github.io) **[Programmer]**<br> |
 
-![Image](/images/teamggjjogja2019.jpg)
+## IGSI Gamejam 2020 Roadshow
 
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
+![Tumpengin IGSI Gamejam](/images/igsigamejamroadshow2020.png)
 
-## SIMMERJam
+|              |                                           |
+| ------------ | ----------------------------------------- |
+| Game         | [Tumpengin](../game-project/#tumpengin)   |
+| Tanggal      | 5 Agustus 2020 - 10 Agustus 2020          |
+| Berita acara | [IGSI Gamejam Roadshow 2020](https://www.facebook.com/indigogame.incubation/posts/735521387269961) |
+| Team         | **[Programmer]**                          |
 
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
+## IGSI Gamejam 2020 Fun From Home
 
-## Hackjam
-
-![Image](/images/teamhackjam2019.JPG)
-
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
+|              |                                           |
+| ------------ | ----------------------------------------- |
+| Game         | []()                                      |
+| Tanggal      |                                           |
+| Berita acara | [IGSI Gamejam Roadshow 2020](https://www.facebook.com/indigogame.incubation/posts/735521387269961) |
+| Team         | **[Programmer]**                          |
 
 ## Global Game Jam 2020 Surabaya
 
 ![Image](/images/teamggjsurabaya2020.jpg)
 
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
+|              |                                           |
+| ------------ | ----------------------------------------- |
+| Game         | []()                                      |
+| Tanggal      |                                           |
+| Berita acara | [IGSI Gamejam Roadshow 2020](https://www.facebook.com/indigogame.incubation/posts/735521387269961) |
+| Team         | **[Programmer]**                          |
 
-## IGSI Gamejam 2020 Fun From Home
+## Hackjam
 
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
+![Image](/images/teamhackjam2019.JPG)
 
-## IGSI Gamejam 2020 Roadshow
+|              |                                           |
+| ------------ | ----------------------------------------- |
+| Game         | []()                                      |
+| Tanggal      |                                           |
+| Berita acara | [IGSI Gamejam Roadshow 2020](https://www.facebook.com/indigogame.incubation/posts/735521387269961) |
+| Team         | **[Programmer]**                          |
 
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
 
-## Global Game Jam 2022 Malang
-Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
-Tanggal&nbsp;: 20 Januari 2022 - 30 Januari 2022 <br>
-Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
+## SIMMERJam
+|              |                                           |
+| ------------ | ----------------------------------------- |
+| Game         | []()                                      |
+| Tanggal      |                                           |
+| Berita acara | [IGSI Gamejam Roadshow 2020](https://www.facebook.com/indigogame.incubation/posts/735521387269961) |
+| Team         | **[Programmer]**                          |
+
+
+## Global Game Jam 2019 Jogja
+
+![Image](/images/teamggjjogja2019.jpg)
+
+|              |                                           |
+| ------------ | ----------------------------------------- |
+| Game         | []()                                      |
+| Tanggal      |                                           |
+| Berita acara | [IGSI Gamejam Roadshow 2020](https://www.facebook.com/indigogame.incubation/posts/735521387269961) |
+| Team         | **[Programmer]**                          |
+
+## Global Game Jam 2018 Surabaya
+
+![Image](/images/teamggjsurabaya2018.jpg)
+
+|              |                                           |
+| ------------ | ----------------------------------------- |
+| Game         | [Gadget Factory](../gameproject/#gadget-factory) |
+| Tanggal      | 26 Januari - 28 Januari 2022              |
+| Berita acara | [IGSI Gamejam Roadshow 2020](https://www.facebook.com/indigogame.incubation/posts/735521387269961) |
+| Team         | Rahmat Ansori **[Programmer]**<br> Robertus Dwi Ari Utomo **[Programmer]**<br> Riyan Maulana **[Programmer]**<br> Faris Muhtadi **[Artist]**<br> Hernando Permadi **[Desainer Game dan Composer]** |                     |
 
 ***
