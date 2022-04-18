@@ -1,5 +1,109 @@
 [Click To Back](../)
 
+***
+
+# Faerie Afterlight
+
+![Image](/images/game/faerie-afterlight.png)
+
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Faerie Afterlight                                    |
+| Masa Kerja    | Januari 2021 - sekarang                              |
+| Status        | Sedang tahap pengerjaan                              |
+| Platform      | Windows                                              |
+| Link Projek   | [Wishlist Now! Faerie Afterlight on Steam](https://store.steampowered.com/app/1415280/Faerie_Afterlight/) |
+| Detail Projek | Faerie Afterlight dikembangkan oleh Clay Game Studio, saya bertanggung jawab pada posisi Programmer pada projek game ini. |
+
+***
+
+# Tower Madness
+
+![Image](/images/game/tower-madness.png)
+
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Tower Madness                                        |
+| Waktu Develop | Maret 2021                                           |
+| Status        | Projek Gamejam                                       |
+| Platform      | Windows                                              |
+| Link Projek   | [Tower Madness](https://haekalary.itch.io/tower-madness) |
+| Detail Projek | Game Bullet Hell menggunakan peluru musuh dan meletakkannya di menara player untuk menghancurkan menara musuh! <br><br> "WE USED THE TOWER TO DESTROY THE TOWER" |
+
+***
+
+# Arthiefactor
+
+![Image](/images/game/arthiefactor.png)
+
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Arthiefactor                                         |
+| Waktu Develop | Oktober 2020 -  Desember 2020                        |
+| Status        | Projek Lomba                                         |
+| Platform      | Windows                                              |
+| Link Projek   | [Arthiefator](https://bintangfr.itch.io/arthiefactor) |
+| Detail Projek | Selama masa damai di tahun 2020, beberapa teroris pemberontak menggunakan semacam artefak untuk menghancurkan kekacauan di seluruh negeri. Tujuan mereka adalah untuk mengumpulkan semua artefak Indonesia untuk membangun, platform senjata raksasa dengan kemampuan serangan nuklir di seluruh dunia. Dengan keselamatan seluruh dunia yang dipertaruhkan, atas permintaan pasukan khusus, memanggil X dari masa pensiunnya untuk satu operasi solo terakhir untuk menghentikan mereka. |
+
+***
+
+# Super Janitor Bros
+
+![Image](/images/game/super-janitor-bros.png)
+
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Super Janitor Bros                                   |
+| Waktu Develop | September 2020                                       |
+| Status        | Projek Gamejam                                       |
+| Platform      | Windows                                              |
+| Link Projek   | [Super Janitor Bros](https://bintangfr.itch.io/super-janitor-bros) |
+| Detail Projek | Player dihadapkan pada kekacauan kota akan sampah berserakan, player harus membersihkan sampah dengan memilahnya sesuai dengan tipe sampah. |
+
+***
+
+# One Two three Dango!
+
+![Image](/images/game/one-two-three-dango.png)
+
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | One Two three Dango!                                 |
+| Waktu Develop | Agustus 2020                                         |
+| Status        | Projek Gamejam                                       |
+| Platform      | Windows                                              |
+| Link Projek   | [1 2 3 Dango!](https://bintangfr.itch.io/one-two-three-dang) |
+| Detail Projek | Game kasual untuk menyelamatkan putri dango dengan puzzle platform. Selesaikan dengan memperhatikan langkah, karena tile yang dilalui tidak bisa dilalui untuk kedua kalinya! |
+
+***
+
+# Les Plague
+
+![Image](/images/game/les-plague.png)
+
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Les Plague                                           |
+| Waktu Develop | Juli 2020                                            |
+| Status        | Projek Mata Kuliah \| Prototype                      |
+| Platform      | Windows                                              |
+| Link Projek   | [Les Plague](https://penguin55.itch.io/les-plague)   |
+| Detail Projek | Les Plague adalah game bergenre RPG Turn-Based dengan tema abad pertengahan. Bercerita tentang seorang dokter yang mengenakan baju besi merah tebal dengan julukan Plague Doctor yang mengembara untuk menyembuhkan warga dari serangan penyakit yang disebarkan oleh kadal misterius, Plagas. |
+
+***
+
+# The Fountain of Youth
+
+![Image](/images/game/the-fountain-of-youth.png)
+
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | The Fountain of Youth                                |
+| Waktu Develop | Juli 2020                                            |
+| Status        | Projek Gamejam 2020                                  |
+| Platform      | Windows                                              |
+| Link Projek   | [The Fountain of Youth](https://penguin55.itch.io/fountain-of-youth) |
+| Detail Projek | The Fountain of Youth adalah game dengan kemampuan mengubah usia player menggunakan air mancur awet muda. Setiap usia memiliki kemampuan berbeda untuk mencapai bintang berbeda yang harus dikumpulkan pada level untuk ke level selanjutnya. |
 
 ***
 
@@ -40,7 +144,7 @@
 |               |                                                      |
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Tap Jet                                              |
-| Waktu Develop |                                                      |
+| Waktu Develop | November 2019                                        |
 | Status        | Projek Lomba \| Prototype                            |
 | Platform      | Android                                              |
 | Link Projek   | Belum Tersedia                                       |
@@ -55,8 +159,8 @@
 |               |                                                      |
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Brou                                                 |
-| Waktu Develop |                                                      |
-| Status        | Projek Mata Kuliah \| Prototype                          |
+| Waktu Develop | Oktober 2019                                         |
+| Status        | Projek Mata Kuliah \| Prototype                      |
 | Platform      | HTML5                                                |
 | Link Projek   | Belum Tersedia                                       |
 | Detail Projek | Terinspirasi dari game simulasi Pou yang dikembangkan oleh Zakeh, Brou memiliki mekanisme yang sama dimana karakter utama adalah Brone maskot resmi dari Universitas Brawijaya. Projek ini adalah projek mata kuliah yang mengusung tema kampus dengan membawa maskot kampus UB menjadi karakter utama game. |
@@ -70,7 +174,7 @@
 |               |                                                      |
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Marapi                                               |
-| Waktu Develop |                                                      |
+| Waktu Develop | Oktober 2019                                         |
 | Status        | Projek Mata Kuliah \| Prototype                      |
 | Platform      | Windows                                              |
 | Link Projek   | [Marapi \| Digital Game](https://penguin55.itch.io/marapi-tftm) |
@@ -85,7 +189,7 @@
 |               |                                                      |
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Doctor DO                                            |
-| Waktu Develop |                                                      |
+| Waktu Develop | Agustus 2019 - September 2019                        |
 | Status        | Stopped \| Prototype                                 |
 | Platform      | Android                                              |
 | Link Projek   | [Marapi \| Digital Game](https://penguin55.itch.io/marapi-tftm) |
@@ -100,7 +204,7 @@
 |               |                                                      |
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Supeltas                                             |
-| Waktu Develop |                                                      |
+| Waktu Develop | Juli 2019                                            |
 | Status        | Projek Lomba \| Prototype                            |
 | Platform      | Android                                              |
 | Link Projek   | Belum Teredia                                        |
@@ -115,7 +219,7 @@
 |               |                                                      |
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Super Pong Neon                                      |
-| Waktu Develop |                                                      |
+| Waktu Develop | Juli 2019                                            |
 | Status        | Projek Kursus Dicoding                               |
 | Platform      | Windows                                              |
 | Link Projek   | [Super Pong Neon](https://penguin55.itch.io/super-pong-neon) |
@@ -130,29 +234,13 @@
 |               |                                                      |
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Strofos                                              |
-| Waktu Develop |                                                      |
+| Waktu Develop | Mei 2019                                             |
 | Status        | Projek Gamejam \| Prototype                          |
 | Platform      | HTML5                                                |
 | Link Projek   | [Strofos](https://simmer.io/@ariutomo/strofos)       |
 | Detail Projek | Ini adalah game yang mengimplementasikan INVERTER dengan hanya 2 warna dalam game. Mode terbalik akan menyala jika player memasuki area hitam
 (latar belakang hitam) dan akan tidak aktif saat memasuki area putih (latar belakang putih). Setiap wilayah memiliki 10 detik,
 player hanya bisa bertahan selama itu, jika waktu habis maka game selesai. Tujuan dari permainan ini adalah untuk mencapai finish yang ada di akhir level ini, mencapai finish berbentuk kotak dengan lingkaran di dalamnya. Player akan mati dan kembali ke posisi awal jika terkena duri, selain itu player akan kehilangan waktu 2 detik di daerah tersebut. |
-
-***
-
-# Space Shooter
-
-![Image](/images/game/space-shooter.png)
-
-|               |                                                      |
-| -----------   | ---------------------------------------------------- |
-| Nama Game     | Space Shooter                                        |
-| Waktu Develop |                                                      |
-| Status        | Projek Magang RAION                                  |
-| Platform      | Windows                                              |
-| Link Projek   | [Space Shooter](https://drive.google.com/drive/folders/1hznsKD2e-beWlTbCFXkNSr-Blp2sNvDf?usp=sharing) |
-| Detail Projek | Terinspirasi dari Space Impact dengan gameplay kasual, Space Shooter hadir dengan mekanik yang sama dengan beberapa modifikasi
-untuk memungkinkan pemain menggunakan keterampilan dan bermain multiplayer secara lokal. Skill dari karakter akan berbeda jika memainkan mode single player dan mode multiplayer. Setiap tahap memiliki musuh dengan kesulitan yang berbeda, pemain harus membunuh mereka dan mencapai bos setiap tahap untuk pindah ke level berikutnya. |
 
 ***
 
@@ -163,26 +251,11 @@ untuk memungkinkan pemain menggunakan keterampilan dan bermain multiplayer secar
 |               |                                                      |
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Fun With Piano                                       |
-| Waktu Develop |                                                      |
+| Waktu Develop | Maret 2019 - April 2019                              |
 | Status        | Projek Komisi \| Prototype                           |
 | Platform      | Windows                                              |
 | Link Projek   | Belum Tersedia                                       |
 | Detail Projek | Fun With Piano adalah game dengan genre rythm di platform windows dengan mensimulasikan piano. Ada tantangan untuk memainkan lagu dengan kesulitan yang berbeda. Setiap lagu yang diselesaikan dengan 2 atau 3 bintang akan membuka level lagu berikutnya. |
-
-***
-
-# ATAP
-
-![Image](/images/game/atap.png)
-
-|               |                                                      |
-| -----------   | ---------------------------------------------------- |
-| Nama Game     | ATAP                                                 |
-| Waktu Develop |                                                      |
-| Status        | Projek Gamejam                                       |
-| Platform      | Windows                                              |
-| Link Projek   | [ATAP](https://globalgamejam.org/2019/games/atap)    |
-| Detail Projek | Atap adalah game horor teka-teki dengan mekanik point n click dan peningkatan dengan deteksi suara untuk meningkatkan timer saat player diburu oleh hantu. Player harus membuka kunci pintu dengan menemukan petunjuk untuk membukanya, petunjuk didapatkan dengan berinteraksi dengan beberapa item sekitar. Item yang diinteraksi dapat memicu hantu untuk mengejar player. Saat player dikejar oleh hantu, player dapat berteriak untuk memperpanjang timer saat notifikasi teriakan muncul. Game berakhir saat timer habis, player dapat menyelesaikan game dengan membuka pintu keluar. |
 
 ***
 
@@ -193,7 +266,7 @@ untuk memungkinkan pemain menggunakan keterampilan dan bermain multiplayer secar
 |               |                                                      |
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Neon Runner                                          |
-| Waktu Develop |                                                      |
+| Waktu Develop | Maret 2019                                           |
 | Status        | Projek Pribadi                                       |
 | Platform      | Windows                                              |
 | Link Projek   | [Neon Runner](https://drive.google.com/drive/folders/1fPrd5-2lMvIafSx2jrdOESGsa0PYZOiT?usp=sharing) |
@@ -202,34 +275,34 @@ dalam grapple suatu tempat, permainan ini menggunakan mekanik grapple untuk berp
 
 ***
 
-# Dibalik Layar
+# Space Shooter
 
-![Image](/images/game/dibalik-layar.png)
+![Image](/images/game/space-shooter.png)
 
 |               |                                                      |
 | -----------   | ---------------------------------------------------- |
-| Nama Game     | Dibalik Layar                                        |
-| Waktu Develop |                                                      |
-| Status        | Projek Lomba                                         |
+| Nama Game     | Space Shooter                                        |
+| Waktu Develop | Februari 2019 - Maret 2019                           |
+| Status        | Projek Magang RAION                                  |
 | Platform      | Windows                                              |
-| Link Projek   | [Dibalik Layar](https://drive.google.com/drive/folders/1C3gjji93UiT-b_xy_axkz1q3yuAG5c1P) |
-| Detail Projek | Dibalik Layar adalah permainan simulasi dan manajemen pemerintahan, dimana player akan menandatangani lembaran seperti peraturan daerah baru, perubahan peraturan daerah, APBD dan lembaran lainnya yang diurus oleh kepala daerah. Player akan ditantang untuk secara sadar dan aktif memantau lembaran korupsi yang mencurigakan tapi di sisi lain pemain harus menyenangkan baik pemerintah maupun rakyat. |
+| Link Projek   | [Space Shooter](https://drive.google.com/drive/folders/1hznsKD2e-beWlTbCFXkNSr-Blp2sNvDf?usp=sharing) |
+| Detail Projek | Terinspirasi dari Space Impact dengan gameplay kasual, Space Shooter hadir dengan mekanik yang sama dengan beberapa modifikasi
+untuk memungkinkan pemain menggunakan keterampilan dan bermain multiplayer secara lokal. Skill dari karakter akan berbeda jika memainkan mode single player dan mode multiplayer. Setiap tahap memiliki musuh dengan kesulitan yang berbeda, pemain harus membunuh mereka dan mencapai bos setiap tahap untuk pindah ke level berikutnya. |
 
 ***
 
-# Plug n Play
+# ATAP
 
-![Image](/images/game/plug-n-play.png)
+![Image](/images/game/atap.png)
 
 |               |                                                      |
 | -----------   | ---------------------------------------------------- |
-| Nama Game     | Plug n Play                                          |
-| Waktu Develop |                                                      |
-| Status        | Projek Lomba \| Prototype                            |
+| Nama Game     | ATAP                                                 |
+| Waktu Develop | Januari 2019                                         |
+| Status        | Projek Gamejam                                       |
 | Platform      | Windows                                              |
-| Link Projek   | Belum Tersedia                                       |
-| Detail Projek | Sebuah game mobile dengan genre stealth, dimana player harus membunuh robot untuk dapat sampai ke ruang utama untuk menonaktifkan generator
-perusahaan. Perusahaan mencoba menginvasi dunia dengan robot. |
+| Link Projek   | [ATAP](https://globalgamejam.org/2019/games/atap)    |
+| Detail Projek | Atap adalah game horor teka-teki dengan mekanik point n click dan peningkatan dengan deteksi suara untuk meningkatkan timer saat player diburu oleh hantu. Player harus membuka kunci pintu dengan menemukan petunjuk untuk membukanya, petunjuk didapatkan dengan berinteraksi dengan beberapa item sekitar. Item yang diinteraksi dapat memicu hantu untuk mengejar player. Saat player dikejar oleh hantu, player dapat berteriak untuk memperpanjang timer saat notifikasi teriakan muncul. Game berakhir saat timer habis, player dapat menyelesaikan game dengan membuka pintu keluar. |
 
 ***
 
@@ -240,11 +313,42 @@ perusahaan. Perusahaan mencoba menginvasi dunia dengan robot. |
 |               |                                                      |
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Escape                                               |
-| Waktu Develop |                                                      |
+| Waktu Develop | Desember 2018                                        |
 | Status        | Projek Pribadi \| Prototype                          |
 | Platform      | Windows                                              |
 | Link Projek   | Belum Tersedia                                       |
 | Detail Projek | Escape merupakan game platformer bergenre puzzle bertema "Laboratory Experiments". Player akan mengendalikan 2 karakter dalam waktu yang berbeda setiap karakter dipisahkan di ruangan yang berbeda dan harus melarikan diri dari laboratorium. Setiap pintu tidak dapat dibuka dengan mudah, player harus menemukan tombol untuk mengaktifkan pintu di ruangan lain, sehingga karakter lain bisa menggunakan pintu untuk pindah ke ruang sebelah. |
+
+***
+
+# Plug n Play
+
+![Image](/images/game/plug-n-play.png)
+
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Plug n Play                                          |
+| Waktu Develop | September 2018 - November 2018                       |
+| Status        | Projek Lomba \| Prototype                            |
+| Platform      | Windows                                              |
+| Link Projek   | Belum Tersedia                                       |
+| Detail Projek | Sebuah game mobile dengan genre stealth, dimana player harus membunuh robot untuk dapat sampai ke ruang utama untuk menonaktifkan generator
+perusahaan. Perusahaan mencoba menginvasi dunia dengan robot. |
+
+***
+
+# Dibalik Layar
+
+![Image](/images/game/dibalik-layar.png)
+
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Dibalik Layar                                        |
+| Waktu Develop | Mei 2018                                             |
+| Status        | Projek Lomba                                         |
+| Platform      | Windows                                              |
+| Link Projek   | [Dibalik Layar](https://drive.google.com/drive/folders/1C3gjji93UiT-b_xy_axkz1q3yuAG5c1P) |
+| Detail Projek | Dibalik Layar adalah permainan simulasi dan manajemen pemerintahan, dimana player akan menandatangani lembaran seperti peraturan daerah baru, perubahan peraturan daerah, APBD dan lembaran lainnya yang diurus oleh kepala daerah. Player akan ditantang untuk secara sadar dan aktif memantau lembaran korupsi yang mencurigakan tapi di sisi lain pemain harus menyenangkan baik pemerintah maupun rakyat. |
 
 ***
 
@@ -255,7 +359,7 @@ perusahaan. Perusahaan mencoba menginvasi dunia dengan robot. |
 |               |                                                      |
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Escape                                               |
-| Waktu Develop | Januari 2018 \| **1 bulan**                          |
+| Waktu Develop | Januari 2018                                         |
 | Status        | Projek Pribadi \| Prototype                          |
 | Platform      | Windows                                              |
 | Link Projek   | [Gadget Factory](https://globalgamejam.org/2018/games/gadget-factory) |
