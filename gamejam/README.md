@@ -2,37 +2,73 @@
 
 ***
 
-# Audio Loops
+## Global Game Jam 2018 Surabaya
 
-![AL](/images/lib/audio-loops.gif)
+![Image](/images/teamggjsurabaya2018.jpg)
 
-Audio Loops is a plugin for Unity Engine which I develops to help you with playing an audio game with loops at specific time you want. 
-Unity Engine can actually perform audio looping with Audio Source Component, but if you wants loop at specific time or maybe wants to 
-play an audio at specific time you have to code a bit more complex, by defining where you want to repeat or manually by setting up the clipped audio. 
-In this libraries there’s a function for that, so you don’t have to think about it anymore. You only need to use the function in accordance with the documentation listed.
+Game&nbsp;&nbsp;&nbsp;&nbsp;: [Gadget Factory](../gameproject/#gadget-factory) <br>
+Tanggal&nbsp;: 26 Januari - 28 Januari 2022 <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rahmat Ansori [Programmer]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Robertus Dwi Ari Utomo [Programmer]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Riyan Maulana [Programmer]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faris Muhtadi [Artist]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hernando Permadi [Desainer Game dan Composer]<br>
 
-Link : [Audio Loops](https://github.com/penguin55/AudioLoop-Unity)
+[Read More](/gamejam)
 
-***
+## Global Game Jam 2019 Jogja
 
-# How To Translate an Object Inside a 2D Doughnut with 2 Radius
+![Image](/images/teamggjjogja2019.jpg)
 
-![Doughnut](/images/lib/translate-inside-a-2d-doughnut.gif)
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
 
-I was thought to make more than just limiting movement in a circle. From that I thought to make them to move 
-inside a 2D doughnut by keeping the object still inside between 2 radius. You can check this function from link bellow
+## SIMMERJam
 
-Link : [Translate an Object Inside a 2D Doughnut](https://gist.github.com/penguin55/637f7b9635c07ea827faae28c2663584)
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
 
-***
+## Hackjam
 
-# How To Translate an Object Inside a Circle with Radius
+![Image](/images/teamhackjam2019.JPG)
 
-![Cirlce](/images/lib/translate-inside-a-circle.gif)
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
 
-It's my first time to post this movement, just want to do this things. This is steps how to translate an object to keep 
-inside a circle by restrict movement by a radius. You can check this function from link bellow
+## Global Game Jam 2020 Surabaya
 
-Link : [Translate an Object Inside a Circle](https://gist.github.com/penguin55/50c5f6c9ff3b7ebae971727e298c5aed)
+![Image](/images/teamggjsurabaya2020.jpg)
+
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
+
+## IGSI Gamejam 2020 Fun From Home
+
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
+
+## IGSI Gamejam 2020 Roadshow
+
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
+
+## Global Game Jam 2022 Malang
+Game&nbsp;&nbsp;&nbsp;&nbsp;: []() <br>
+Tanggal&nbsp;: 20 Januari 2022 - 30 Januari 2022 <br>
+Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Programmer]<br>
 
 ***
