@@ -41,10 +41,10 @@
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Tap Jet                                              |
 | Waktu Develop |                                                      |
-| Status        | Projek Pribadi \| Prototype                          |
+| Status        | Projek Lomba \| Prototype                            |
 | Platform      | Android                                              |
 | Link Projek   | Belum Tersedia                                       |
-| Detail Projek | Tap Jet is a 2D game genre that has a theme space with casual game concept. With a backstory about Planet Ngalam  looking for a new place but must save fuel with the latest technological methods created by Planet Ngalam to move  forward faster in space. Tap Jet has an art style pixel art, dark colored adapts to the theme of the space presented. |
+| Detail Projek | Tap Jet adalah game casual 2D yang dikembangkan pada platform Android. Dengan latar belakang cerita tentang Planet Ngalam mencari tempat baru untuk menyelamatkan bahan bakar dengan teknologi mutakhir yang dikembangkan oleh Planet Ngalam untuk melaju cepat di luar angkasa. Art style yang digunakan pada game ini adalah pixel art, dengan tema gelap mengikuti nuansa ruang angkasa. |
 
 ***
 
@@ -56,10 +56,10 @@
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Brou                                                 |
 | Waktu Develop |                                                      |
-| Status        | Projek Pribadi \| Prototype                          |
+| Status        | Projek Mata Kuliah \| Prototype                          |
 | Platform      | HTML5                                                |
 | Link Projek   | Belum Tersedia                                       |
-| Detail Projek | Inspired by Pou, a game that develops by Zakeh with same mechanic. Brou is develop for hybrid platform, but still has a single resolution (720p). Brou implements realtime mechanicsm to give a delay time for using action to bath, eat and train. So, the player can't take same action at the same time. |
+| Detail Projek | Terinspirasi dari game simulasi Pou yang dikembangkan oleh Zakeh, Brou memiliki mekanisme yang sama dimana karakter utama adalah Brone maskot resmi dari Universitas Brawijaya. Projek ini adalah projek mata kuliah yang mengusung tema kampus dengan membawa maskot kampus UB menjadi karakter utama game. |
 
 ***
 
@@ -71,10 +71,10 @@
 | -----------   | ---------------------------------------------------- |
 | Nama Game     | Marapi                                               |
 | Waktu Develop |                                                      |
-| Status        | Projek Kuliah \| Prototype                           |
+| Status        | Projek Mata Kuliah \| Prototype                      |
 | Platform      | Windows                                              |
-| Link Projek   | [Marapi](https://penguin55.itch.io/marapi-tftm)      |
-| Detail Projek | Marapi is a mountain from Indonesia, known for its mystical aura and many horror stories surrounding it. Players who trapped  by the mystical beings that reside there must survive in 7 days to get out of the mountain! Every action that players made have much consequence that may help them or even kill them. Players must survive by cooperating with other players or, sacrificing the others! Marapi is digital boardgame with survival, horror and mystery genre. |
+| Link Projek   | [Marapi \| Digital Game](https://penguin55.itch.io/marapi-tftm) |
+| Detail Projek | Marapi adalah game yang diambil namanya dari salah satu gunung Indonesia yaitu Merapi, dikenal sebagai aura mistik dan banyaknya cerita horor. Player yang terjebak dengan kekuatan mistik harus menyelamatkan diri dalam waktu 7 hari di gunung Marapi! Setiap aksi yang dilakukan player terdapat konsekuensi yang dapat menolong mereka bahkan membunuh mereka. Player harus menyelesaikan game dalam 7 hari waktu dalam game dengan bekerja sama dengan player lain atau mengorbankan diri atau player lain. Marapi diadaptasi dari boardgame yang dikembangkan untuk memenuhi tugas akhir mata kuliah. |
 
 ***
 
@@ -82,13 +82,14 @@
 
 ![Image](/images/game/doctor-do.png)
 
-Doctor DO game is game based learning for persons with disabilities, equipped with a virtual mentor and equipped with 
-inspiring figure that has succeeded to prove their capability and learning methods that are used as an effort to approach 
-learning for disabilities. DD Based 1 is an exciting new learning based Role Playing Game (RPG) in which you get 
-to experience the life of an Inspiring person with disabilities. Every detail has been attended to so that players also can 
-motivate themselves to become that inspiring figures too.
-
-Status : Delayed
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Doctor DO                                            |
+| Waktu Develop |                                                      |
+| Status        | Stopped \| Prototype                                 |
+| Platform      | Android                                              |
+| Link Projek   | [Marapi \| Digital Game](https://penguin55.itch.io/marapi-tftm) |
+| Detail Projek | Doctor DO adalah game berbasis edukasi dengan visual naratif yang memberikan cerita motivatif untuk orang-orang dengan keterbatasan. Doctor DO menggunakan mentor virtual dan memberikan cerita tentang tokoh yang sukses dengan membuktikan kapabilitas dan metode belajar untuk orang dengan disabilitas. |
 
 ***
 
@@ -96,13 +97,14 @@ Status : Delayed
 
 ![Image](/images/game/supeltas.png)
 
-Supeltas is a mobile game with simulation genre, the player will be a person called Supeltas. In Indonesia, supeltas 
-(Sukarelawan Pengatur Lalu Lintas) is  a person that manage traffic to prevent traffic congestion. Player must be a good
-supeltas, so that traffic can be managed and riders do not wait too long. Rider that wait too long can affect the parameters
-of happiness, if the parameters of happiness is negative, the game is over. Win condition is when all drivers are driving safely 
-and traffic congestion does not occur.
-
-Status : Prototype
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Supeltas                                             |
+| Waktu Develop |                                                      |
+| Status        | Projek Lomba \| Prototype                            |
+| Platform      | Android                                              |
+| Link Projek   | Belum Teredia                                        |
+| Detail Projek | Supeltas adalah game casual android yang dikembangkan dengan sudut pandang player menjadi seorang supeltas. Supeltas (Sukarelawan Pengatur Lalu Lintas) adalah seseorang yang dengan sukarela mengatur lalu lintas pada persimpangan yang tidak terdapat lampu lalu lintas untuk membantu menangani arus lalu lintas. Player harus menjadi supeltas yang baik dan benar untuk mendapatkan parameter rasa senang dari pengendara, apabila parameter negatif dan terjadi kecelakaan maka game akan selesai. Kondisi menang apabila semua kendaraan telah sampai pada tujuan dan tehindar macet dari persimpangan jalan. |
 
 ***
 
@@ -110,14 +112,14 @@ Status : Prototype
 
 ![Image](/images/game/super-pong-neon.png)
 
-An improvised pong game to attract players in playing this classic game. This game is Neon themed so that all asset components in it are neon themed. 
-Different from the Pong game, this game has a skill for each player that can activate during the game, each skill has different
-effects.Each skill has durability, the skill will not function again if the durability runs out. Each player is only allowed to use 1 skill until 
-the durability is used up. There is a stack system for the skills obtained, each player is only able to have 3 skills, the rest will be discarded 
-the lowest stack skill. To get the skill there will be a random spawn item that will come out in the middle of the map, so that players can get it. 
-The status that gets the skill is the paddle that last touched the ball.
-
-Link : [Super Pong Neon](https://penguin55.itch.io/super-pong-neon)
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Super Pong Neon                                      |
+| Waktu Develop |                                                      |
+| Status        | Projek Kursus Dicoding                               |
+| Platform      | Windows                                              |
+| Link Projek   | [Super Pong Neon](https://penguin55.itch.io/super-pong-neon) |
+| Detail Projek | Sebuah game yang diimprovisasi dari game Pong. Super Neon Pong memiliki skill yang dapat diperoleh player dengan mengambilnya melalui pantulan bola. Berbeda dengan game Pong, game ini dapat menggunakan skill yang beragam dan dapat diaktifkan setiap saat, tiap skill memiliki keunikan tersendiri dan memiliki durabilitas yang dapat habis efeknya. Tiap player hanya diperbolehkan menggunakan 1 skill hingga waktu penggunaannya habis. Pada Super Pong Neon, player dapat mengambil skill dan menyimpannya hingga sebanyak 3 stack, setiap skill baru yang diambil maka akan menggeser skill lama yang telah didapatkan. Item skill akan di spawn secara acak pada map. |
 
 ***
 
@@ -125,15 +127,16 @@ Link : [Super Pong Neon](https://penguin55.itch.io/super-pong-neon)
 
 ![Image](/images/game/strofos.png)
 
-This is a game that implements INVERTER with only 2 color in game. Invert mode will turn on if you enter the black area 
-(black background). And it will be inactive when entering the white area (white background). Each region has 10 seconds, 
-you can only survive that long. The aim of this game is to get to the finish that is at the end of this level, reach a 
-box-shaped finish with a circle inside. You will die and return to the starting position if you get a thorn, besides 
-that you will lose your time by 2 seconds in the area.
-
-Status : Prototype
-
-Link : [Strofos](https://simmer.io/@ariutomo/strofos)
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Strofos                                              |
+| Waktu Develop |                                                      |
+| Status        | Projek Gamejam \| Prototype                          |
+| Platform      | HTML5                                                |
+| Link Projek   | [Strofos](https://simmer.io/@ariutomo/strofos)       |
+| Detail Projek | Ini adalah game yang mengimplementasikan INVERTER dengan hanya 2 warna dalam game. Mode terbalik akan menyala jika player memasuki area hitam
+(latar belakang hitam) dan akan tidak aktif saat memasuki area putih (latar belakang putih). Setiap wilayah memiliki 10 detik,
+player hanya bisa bertahan selama itu, jika waktu habis maka game selesai. Tujuan dari permainan ini adalah untuk mencapai finish yang ada di akhir level ini, mencapai finish berbentuk kotak dengan lingkaran di dalamnya. Player akan mati dan kembali ke posisi awal jika terkena duri, selain itu player akan kehilangan waktu 2 detik di daerah tersebut. |
 
 ***
 
@@ -141,11 +144,15 @@ Link : [Strofos](https://simmer.io/@ariutomo/strofos)
 
 ![Image](/images/game/space-shooter.png)
 
-Inspired from Space Impact with a casual gameplay, Space Shooter comes with the same mechanic with some modification 
-to allow player use the skill and play multiplayer locally. Skill will different if play single mode and multiplayer mode.
-Each stage has enemies with different difficulties, player must kill them and reach the boss each stage to move next level.
-
-Link : [Space Shooter](https://drive.google.com/drive/folders/1hznsKD2e-beWlTbCFXkNSr-Blp2sNvDf?usp=sharing)
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Space Shooter                                        |
+| Waktu Develop |                                                      |
+| Status        | Projek Magang RAION                                  |
+| Platform      | Windows                                              |
+| Link Projek   | [Space Shooter](https://drive.google.com/drive/folders/1hznsKD2e-beWlTbCFXkNSr-Blp2sNvDf?usp=sharing) |
+| Detail Projek | Terinspirasi dari Space Impact dengan gameplay kasual, Space Shooter hadir dengan mekanik yang sama dengan beberapa modifikasi
+untuk memungkinkan pemain menggunakan keterampilan dan bermain multiplayer secara lokal. Skill dari karakter akan berbeda jika memainkan mode single player dan mode multiplayer. Setiap tahap memiliki musuh dengan kesulitan yang berbeda, pemain harus membunuh mereka dan mencapai bos setiap tahap untuk pindah ke level berikutnya. |
 
 ***
 
@@ -153,10 +160,14 @@ Link : [Space Shooter](https://drive.google.com/drive/folders/1hznsKD2e-beWlTbCF
 
 ![Image](/images/game/piano-tiles.png)
 
-Fun With Piano is a rhythm game in windows platform with simulates the piano. There is a challenge to play a song with different difficulties.
-Every song that cleared with 2 or 3 star will unlock next song.
-
-Status : Prototype
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Fun With Piano                                       |
+| Waktu Develop |                                                      |
+| Status        | Projek Komisi \| Prototype                           |
+| Platform      | Windows                                              |
+| Link Projek   | Belum Tersedia                                       |
+| Detail Projek | Fun With Piano adalah game dengan genre rythm di platform windows dengan mensimulasikan piano. Ada tantangan untuk memainkan lagu dengan kesulitan yang berbeda. Setiap lagu yang diselesaikan dengan 2 atau 3 bintang akan membuka level lagu berikutnya. |
 
 ***
 
@@ -164,11 +175,14 @@ Status : Prototype
 
 ![Image](/images/game/atap.png)
 
-Atap is a puzzle horror game with mechanic point n click, and improvement with voice detection to increase the timer when
-the ghost is hunted the player. We must unlock the door with find the clues to opens it. Player can scream to extend the timer when the scream notification is 
-pops out.
-
-Link : [ATAP](https://globalgamejam.org/2019/games/atap)
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | ATAP                                                 |
+| Waktu Develop |                                                      |
+| Status        | Projek Gamejam                                       |
+| Platform      | Windows                                              |
+| Link Projek   | [ATAP](https://globalgamejam.org/2019/games/atap)    |
+| Detail Projek | Atap adalah game horor teka-teki dengan mekanik point n click dan peningkatan dengan deteksi suara untuk meningkatkan timer saat player diburu oleh hantu. Player harus membuka kunci pintu dengan menemukan petunjuk untuk membukanya, petunjuk didapatkan dengan berinteraksi dengan beberapa item sekitar. Item yang diinteraksi dapat memicu hantu untuk mengejar player. Saat player dikejar oleh hantu, player dapat berteriak untuk memperpanjang timer saat notifikasi teriakan muncul. Game berakhir saat timer habis, player dapat menyelesaikan game dengan membuka pintu keluar. |
 
 ***
 
@@ -176,10 +190,15 @@ Link : [ATAP](https://globalgamejam.org/2019/games/atap)
 
 ![Image](/images/game/neon-runner.png)
 
-Neon Runner is a multiplayer competitive game that can plays with 2 player locally. Inspired by Speed runner with the mechanicsm
-of hooking a place, this game is use the hooks mechanic to move from first point to hooked point.
-
-Link : [Neon Runner](https://drive.google.com/drive/folders/1fPrd5-2lMvIafSx2jrdOESGsa0PYZOiT?usp=sharing)
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Neon Runner                                          |
+| Waktu Develop |                                                      |
+| Status        | Projek Pribadi                                       |
+| Platform      | Windows                                              |
+| Link Projek   | [Neon Runner](https://drive.google.com/drive/folders/1fPrd5-2lMvIafSx2jrdOESGsa0PYZOiT?usp=sharing) |
+| Detail Projek | Neon Runner adalah game kompetitif multiplayer yang dapat dimainkan secara lokal. Terinspirasi dari Speed Runner dengan mekanismenya
+dalam grapple suatu tempat, permainan ini menggunakan mekanik grapple untuk berpindah dari titik pertama ke titik grapple. |
 
 ***
 
@@ -187,11 +206,14 @@ Link : [Neon Runner](https://drive.google.com/drive/folders/1fPrd5-2lMvIafSx2jrd
 
 ![Image](/images/game/dibalik-layar.png)
 
-Dibalik Layar is a simulation game and management of government, where players will sign sheets such as new regional regulations, changes in regional regulations, regional budgets, 
-and other sheets taken care of by the regional head. Players will be challenged to consciously and actively monitor suspicious sheets of corruption, 
-but on the other hand players must please both the government and the public.
-
-Link : [Dibalik Layar](https://drive.google.com/drive/folders/1C3gjji93UiT-b_xy_axkz1q3yuAG5c1P)
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Dibalik Layar                                        |
+| Waktu Develop |                                                      |
+| Status        | Projek Lomba                                         |
+| Platform      | Windows                                              |
+| Link Projek   | [Dibalik Layar](https://drive.google.com/drive/folders/1C3gjji93UiT-b_xy_axkz1q3yuAG5c1P) |
+| Detail Projek | Dibalik Layar adalah permainan simulasi dan manajemen pemerintahan, dimana player akan menandatangani lembaran seperti peraturan daerah baru, perubahan peraturan daerah, APBD dan lembaran lainnya yang diurus oleh kepala daerah. Player akan ditantang untuk secara sadar dan aktif memantau lembaran korupsi yang mencurigakan tapi di sisi lain pemain harus menyenangkan baik pemerintah maupun rakyat. |
 
 ***
 
@@ -199,10 +221,15 @@ Link : [Dibalik Layar](https://drive.google.com/drive/folders/1C3gjji93UiT-b_xy_
 
 ![Image](/images/game/plug-n-play.png)
 
-A mobile game with stealth genre that player must kill the robot to get the main stage to deactivate generator of 
-company. The company trying to invades the world with robot.
-
-Status : Prototype
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Plug n Play                                          |
+| Waktu Develop |                                                      |
+| Status        | Projek Lomba \| Prototype                            |
+| Platform      | Windows                                              |
+| Link Projek   | Belum Tersedia                                       |
+| Detail Projek | Sebuah game mobile dengan genre stealth, dimana player harus membunuh robot untuk dapat sampai ke ruang utama untuk menonaktifkan generator
+perusahaan. Perusahaan mencoba menginvasi dunia dengan robot. |
 
 ***
 
@@ -210,11 +237,14 @@ Status : Prototype
 
 ![Image](/images/game/escape.png)
 
-Escape is a platformer game with puzzle genre with theme "Laboratory Experiments". Player will control 2 characters but in different time
-each character separated on different room and must escape the laboratory. Each door can't easily open, player must find the button to activate the door in another room 
-so, another character can use the door to move to the next room.
-
-Status : Prototype
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Escape                                               |
+| Waktu Develop |                                                      |
+| Status        | Projek Pribadi \| Prototype                          |
+| Platform      | Windows                                              |
+| Link Projek   | Belum Tersedia                                       |
+| Detail Projek | Escape merupakan game platformer bergenre puzzle bertema "Laboratory Experiments". Player akan mengendalikan 2 karakter dalam waktu yang berbeda setiap karakter dipisahkan di ruangan yang berbeda dan harus melarikan diri dari laboratorium. Setiap pintu tidak dapat dibuka dengan mudah, player harus menemukan tombol untuk mengaktifkan pintu di ruangan lain, sehingga karakter lain bisa menggunakan pintu untuk pindah ke ruang sebelah. |
 
 ***
 
@@ -222,11 +252,13 @@ Status : Prototype
 
 ![Image](/images/game/gadget-factory.png)
 
-Gadget Factory is a casual game that develops for Global Game Jam 2018 on Surabaya.
-With simple mechanics to package still good computer components and destroy defective 
-products during production. With the theme  "Transmission " and inspired by the rail system 
-that changed line 1 to other lines, our team got the idea to create a Gadget Factory with the same mechanism.
-
-Link : [Gadget Factory](https://globalgamejam.org/2018/games/gadget-factory)
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Escape                                               |
+| Waktu Develop | Januari 2018 \| **1 bulan**                          |
+| Status        | Projek Pribadi \| Prototype                          |
+| Platform      | Windows                                              |
+| Link Projek   | [Gadget Factory](https://globalgamejam.org/2018/games/gadget-factory) |
+| Detail Projek | Gadget Factory adalah game kasual yang dikembangkan untuk Global Game Jam 2018 di Surabaya. Dengan mekanik sederhana untuk mengemas komponen komputer yang masih bagus dan menghancurkan produk yang rusak selama produksi. Mengusung tema "Transmisi" dan terinspirasi dari sistem kereta api yang mengubah jalur 1 ke jalur lain, tim kami mendapat ide untuk membuat game Gadget Factory dengan mekanisme yang sama. |
 
 ***
