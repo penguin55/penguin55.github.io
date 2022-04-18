@@ -7,11 +7,14 @@
 
 ![Image](/images/game/spacecraft-impact.png)
 
-Spacecraft Impact is my first 3D game, developed at Global Game Jam 2020 on Surabaya. With the theme "Repair" for this year and inspired
-from Space Engineer and Dead By Dead By Daylight game, my team has an idea to develops this game. The player must
-protect the spacecraft and repair it when the part is broken.
-
-Link : [Spacecraft Impact](https://globalgamejam.org/2020/games/spacecraft-impact-6)
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Spacecraft Impact                                    |
+| Waktu Develop | Januari 2020 \| **1 bulan**                          |
+| Status        | Projek Gamejam                                       |
+| Platform      | Windows                                              |
+| Link Projek   | [Spacecraft Impact \| Build Game](https://globalgamejam.org/2020/games/spacecraft-impact-6) |
+| Detail Projek | Spacecraft Impact adalah game 3D pertama yang saya kembangkan pada Global Gamejam 2020 di Surabaya. Dengan tema "Repair" untuk tahun 2020 dan terinspirasi dari game Space Engineer dan juga Dead By Daylight, tim saya memiliki ide untuk menggabungkan 2 mekanisme dari 2 game tersebut. Repair, mengumpulkan bahan dan nuansa luar angkasa. Player harus melindungi kapal induk dan membenarkannya ketika rusak ditembaki musuh. |
 
 ***
 
@@ -19,11 +22,14 @@ Link : [Spacecraft Impact](https://globalgamejam.org/2020/games/spacecraft-impac
 
 ![Image](/images/game/save-santa.png)
 
-The Save Santa Game tells the story of Santa who wants to go to his reindeer vehicle but is obstructed by many zombies. 
-Player must kill the zombies, by pointing the mouse pointer to the zombies and right click the mouse to do a hit until 
-the zombies die. For the first stage will be shown a text tutorial for the player.
-
-Status : Prototype
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Save Santa                                           |
+| Waktu Develop | Desember 2019 \| **Christmas Challenge**             |
+| Status        | Projek Pribadi \| Prototype                          |
+| Platform      | Windows                                              |
+| Link Projek   | Belum Tersedia                                       |
+| Detail Projek | Save Santa menceritakan tentang Santa yang ingin pergi ke kereta rusanya tetapi dihalangi oleh banyak zombie. Player diharapkan membantu Santa untuk menghindari zombie dengan melakukan tap-tap terhadap zombie untuk membunuhnya. |
 
 ***
 
@@ -31,11 +37,14 @@ Status : Prototype
 
 ![Image](/images/game/tap-jet.png)
 
-Tap Jet is a 2D game genre that has a theme space with casual game concept. With a backstory about Planet Ngalam 
-looking for a new place but must save fuel with the latest technological methods created by Planet Ngalam to move 
-forward faster in space. Tap Jet has an art style pixel art, dark colored adapts to the theme of the space presented.
-
-Status : Prototype
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Tap Jet                                              |
+| Waktu Develop |                                                      |
+| Status        | Projek Pribadi \| Prototype                          |
+| Platform      | Android                                              |
+| Link Projek   | Belum Tersedia                                       |
+| Detail Projek | Tap Jet is a 2D game genre that has a theme space with casual game concept. With a backstory about Planet Ngalam  looking for a new place but must save fuel with the latest technological methods created by Planet Ngalam to move  forward faster in space. Tap Jet has an art style pixel art, dark colored adapts to the theme of the space presented. |
 
 ***
 
@@ -43,11 +52,14 @@ Status : Prototype
 
 ![Image](/images/game/brou.png)
 
-Inspired by Pou, a game that develops by Zakeh with same mechanic. Brou is develop for hybrid platform, but still has a single resolution (720p).
-Brou implements realtime mechanicsm to give a delay time for using action to bath, eat and train. So, the player can't take same action
-at the same time.
-
-Status : Prototype
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Brou                                                 |
+| Waktu Develop |                                                      |
+| Status        | Projek Pribadi \| Prototype                          |
+| Platform      | HTML5                                                |
+| Link Projek   | Belum Tersedia                                       |
+| Detail Projek | Inspired by Pou, a game that develops by Zakeh with same mechanic. Brou is develop for hybrid platform, but still has a single resolution (720p). Brou implements realtime mechanicsm to give a delay time for using action to bath, eat and train. So, the player can't take same action at the same time. |
 
 ***
 
@@ -55,12 +67,14 @@ Status : Prototype
 
 ![Image](/images/game/marapi.png)
 
-Marapi is a mountain from Indonesia, known for its mystical aura and many horror stories surrounding it. Players who trapped 
-by the mystical beings that reside there must survive in 7 days to get out of the mountain! Every action that players made 
-have much consequence that may help them or even kill them. Players must survive by cooperating with other players or, sacrificing the others!
-Marapi is digital boardgame with survival, horror and mystery genre.
-
-Link : [Marapi](https://penguin55.itch.io/marapi-tftm)
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Marapi                                               |
+| Waktu Develop |                                                      |
+| Status        | Projek Kuliah \| Prototype                           |
+| Platform      | Windows                                              |
+| Link Projek   | [Marapi](https://penguin55.itch.io/marapi-tftm)      |
+| Detail Projek | Marapi is a mountain from Indonesia, known for its mystical aura and many horror stories surrounding it. Players who trapped  by the mystical beings that reside there must survive in 7 days to get out of the mountain! Every action that players made have much consequence that may help them or even kill them. Players must survive by cooperating with other players or, sacrificing the others! Marapi is digital boardgame with survival, horror and mystery genre. |
 
 ***
 
