@@ -8,7 +8,7 @@
 * [IGSI Gamejam 2020 Fun From Home](#igsi-gamejam-2020-fun-from-home)
 * [Global Game Jam 2020 Surabaya](#global-game-jam-2020-surabaya)
 * [Hackjam](#hackjam)
-* [SIMMERJam](#simmerjam-1.0)
+* [SIMMERJam 1.0](#simmerjam-1)
 * [Global Game Jam 2019 Jogja](#global-game-jam-2019-jogja)
 * [Global Game Jam 2018 Surabaya](#global-game-jam-2018-surabaya)
 
@@ -79,7 +79,9 @@
 
 <br>
 
-## SIMMERJam 1.0
+## SIMMERJam 1
+
+
 |              |                                           |
 | ------------ | ----------------------------------------- |
 | Game         | [Strofos](../game-project/#strofos)       |
