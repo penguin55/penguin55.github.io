@@ -51,6 +51,7 @@ Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faris Muhtadi [Artist]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hernando Permadi [Desainer Game dan Composer]<br>
 
+[Read More](/gamejam)
 
 ### Global Game Jam 2019 Jogja
 
