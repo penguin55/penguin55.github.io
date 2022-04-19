@@ -74,7 +74,7 @@ Saya mencoba untuk membuat banyak plugin dan library game untuk memfasilitasi da
 
 #### Water Allside
 
-![WA](/images/lib/water-allside.gif)
+![WA](/images/lib/water-allside.png)
 
 |             |                    |
 | ----------- | ------------------ |
