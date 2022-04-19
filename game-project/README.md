@@ -17,6 +17,36 @@
 
 ***
 
+# Paralel Universe 
+
+![Image](/images/game/paralel-universe.png)
+
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Paralel Universe                                     |
+| Waktu Develop | Januari 2022                                         |
+| Status        | Projek Global Gamejam 2022                           |
+| Platform      | Windows                                              |
+| Link Projek   | [Paralel Universe](https://globalgamejam.org/2022/games/multiverse-madness-0) |
+| Detail Projek | Paralel Universe adalah sebuah game puzzle 2 Platformer dengan 2 universe yang berbeda sebagai representasi dari tema Duality. 2 Universe tersebut bisa dikatakan sebagai white side and dark side. Di white side pemain diharuskan untuk mencapai garis finish dengan durasi waktu yang telah di tentukan. Setelah pemain mencapai garis finish di white side, game akan langsung berubah menjadi dark side. Di dark side pemain juga diharuskan untuk mencapai garis finish namun tidak dengan batas waktu tertentu, akan tetapi pemain harus menghindari bayangan karakter yang sedang berjalan di universe white side. |
+
+***
+
+# Pajak Kita Untuk Kita
+
+![Image](/images/game/pajak-kita-untuk-kita.png)
+
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Pajak Kita Untuk Kita                                |
+| Waktu Develop | Juni 2021                                            |
+| Status        | Projek Lomba \| Prototype                            |
+| Platform      | HTML5                                                |
+| Link Projek   | [Pajak Kita Untuk Kita](/game-build/batualamjaya-pajak) |
+| Detail Projek | Game edukasi pajak untuk mengajarkan bagaimana membayar pajak di Indonesia dari perlengkapan dan syarat yang harus dipenuhi. |
+
+***
+
 # Tower Madness
 
 ![Image](/images/game/tower-madness.png)
@@ -71,7 +101,7 @@
 | Nama Game     | Super Janitor Bros                                   |
 | Waktu Develop | September 2020                                       |
 | Status        | Projek Gamejam                                       |
-| Platform      | Windows                                              |
+| Platform      | Android                                              |
 | Link Projek   | [Super Janitor Bros](https://bintangfr.itch.io/super-janitor-bros) |
 | Detail Projek | Player dihadapkan pada kekacauan kota akan sampah berserakan, player harus membersihkan sampah dengan memilahnya sesuai dengan tipe sampah. |
 
