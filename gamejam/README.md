@@ -110,7 +110,7 @@
 
 |              |                                           |
 | ------------ | ----------------------------------------- |
-| Game         | [Gadget Factory](../gameproject/#gadget-factory) |
+| Game         | [Gadget Factory](../game-project/#gadget-factory) |
 | Tanggal      | 26 Januari 2018 - 28 Januari 2018                |
 | Berita acara | [GGJ 2018](https://globalgamejam.org/2018/jam-sites/global-game-jam-surabaya-2018-politeknik-elektronika-negeri-surabaya) |
 | Team         |  [Faris Muhtadi](https://globalgamejam.org/users/faris-muhtadi) **[Artist]**<br> [Hernando Permadi](https://globalgamejam.org/users/hernando-permadi) **[Desainer Game dan Composer]**<br> [Rahmat Ansori](https://globalgamejam.org/users/ansori21) **[Programmer]**<br> [Riyan Maulana](https://globalgamejam.org/users/idriyan) **[Programmer]**<br> [Robertus Dwi Ari Utomo](https://penguin55.github.io/) **[Programmer]**<br> |
