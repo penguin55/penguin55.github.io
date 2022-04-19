@@ -13,7 +13,7 @@
 | Status        | Sedang tahap pengerjaan                              |
 | Platform      | Windows                                              |
 | Link Projek   | [Wishlist Now! Faerie Afterlight on Steam](https://store.steampowered.com/app/1415280/Faerie_Afterlight/) |
-| Detail Projek | Faerie Afterlight dikembangkan oleh Clay Game Studio, saya bertanggung jawab pada posisi Programmer pada projek game ini. |
+| Detail Projek | Faerie Afterlight dikembangkan oleh [Clay Game Studio](http://claygamestudio.com/), saya bertanggung jawab pada posisi Programmer pada projek game ini. |
 
 ***
 
@@ -88,7 +88,7 @@
 | Status        | Projek Magang Nightspade                             |
 | Platform      | Android                                              |
 | Link Projek   | Tidak tersedia                                       |
-| Detail Projek | Bumi merupakan projek internal Nightspade dengan bekerjasama oleh salah satu perusahaan Swedia untuk membuat game android bertemakan lingkungan dengan mengusung cerita alien datang ke bumi untuk membantu manusia dalam membersihkan sampah yang diproduksi oleh manusia. Pada projek ini saya berkontribusi menjadi **Programmer Utama** yang menangani pembuatan ulang level dari 2D menjadi 3D pada menu utama dan level pemilahan sampah. |
+| Detail Projek | Bumi merupakan projek internal [Nightspade](https://www.nightspade.com/) dengan bekerjasama oleh salah satu perusahaan Swedia untuk membuat game android bertemakan lingkungan dengan mengusung cerita alien datang ke bumi untuk membantu manusia dalam membersihkan sampah yang diproduksi oleh manusia. Pada projek ini saya berkontribusi menjadi **Programmer Utama** yang menangani pembuatan ulang level dari 2D menjadi 3D pada menu utama dan level pemilahan sampah. |
 
 ***
 

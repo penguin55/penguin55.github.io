@@ -25,7 +25,7 @@ Saya memulai perjalananku menjadi Game Programmer dimulai pada akhir tahun 2017 
 Saya memiliki rasa optimis tinggi terhadap apa yang telah saya kuasai dalam programming dalam game, pada awal tahun 2018 tepat sebulan setelah kursus yang saya ikuti dari Raion, saya memberanikan diri untuk mengikuti event Gamejam pertama saya pada acara Global Game Jam 2018 yang diadakan pada kota Surabaya berlokasi pada salah satu gedung Politeknik Elektronika Negri Surabaya. Saya percaya bahwa keberanian untuk tetap melangkah maju akan membentuk jati diri yang lebih baik. 
 
 #### Kontribusi Pertama
-Nightspade Studio merupakan game studio yang berdomisili di Bandung dengan bisnis utamanya adalah membuat game untuk klien. Pada saat melakukan magang di Nightspade saya berada pada posisi Junior Game Programmer yang bertanggung jawab pada project game bernamakan **Bumi**. Game **Bumi** merupakan game hasil kerja sama antara Nightspade dengan salah satu klien yang berasal dari Swedia. Tugas saya pada projek game **Bumi** adalah merombak salah satu level yang awal mulanya 2D menjadi 3D dengan asset yang sudah disediakan oleh mahasiswa magang lainnya. Hasil dari magang saya menyelesaikan level sesuai dengan permintaan dalam waktu kontrak magang selama 3 bulan kerja.
+[Nightspade Studio](https://www.nightspade.com/) merupakan game studio yang berdomisili di Bandung dengan bisnis utamanya adalah membuat game untuk klien. Pada saat melakukan magang di Nightspade saya berada pada posisi Junior Game Programmer yang bertanggung jawab pada project game bernamakan [Bumi](/game-project/#bumi). Game [Bumi](/game-project/#bumi) merupakan game hasil kerja sama antara Nightspade dengan salah satu klien yang berasal dari Swedia. Tugas saya pada projek game [Bumi](/game-project/#bumi) adalah merombak salah satu level yang awal mulanya 2D menjadi 3D dengan asset yang sudah disediakan oleh mahasiswa magang lainnya. Hasil dari magang saya menyelesaikan level sesuai dengan permintaan dalam waktu kontrak magang selama 3 bulan kerja.
 
 ***
 
@@ -61,7 +61,7 @@ Berikut adalah beberapa kontribusi saya sebagai programmer pada projek game baik
 | Status        | Sedang tahap pengerjaan                              |
 | Platform      | Windows                                              |
 | Link Projek   | [Wishlist Now! Faerie Afterlight on Steam](https://store.steampowered.com/app/1415280/Faerie_Afterlight/) |
-| Detail Projek | Faerie Afterlight dikembangkan oleh Clay Game Studio, saya bertanggung jawab pada posisi Programmer pada projek game ini. |
+| Detail Projek | Faerie Afterlight dikembangkan oleh [Clay Game Studio](http://claygamestudio.com/), saya bertanggung jawab pada posisi Programmer pada projek game ini. |
 
 [Read More](/game-project)
 
@@ -74,7 +74,7 @@ Saya mencoba untuk membuat banyak plugin dan library game untuk memfasilitasi da
 
 #### Water Allside
 
-![WA](/images/lib/water-allside.gif)
+![WA](/images/lib/water-allside.png)
 
 |             |                    |
 | ----------- | ------------------ |
