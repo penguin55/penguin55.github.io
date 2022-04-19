@@ -17,11 +17,11 @@ Simulasi air dengan memanfaatkan semua sisi bangun saat berinteraksi dengan obje
 
 <details>
 <summary>Floating Water di Faerie Afterlight</summary>
- <img src="/images/lib/floating-water.gif"> </img>
+ <img src="/images/lib/floating-water.gif">
 </details>
 <details>
 <summary>3D Water di Faerie Afterlight</summary>
- <img src="/images/lib/3d-water.gif"> </img>
+ <img src="/images/lib/3d-water.gif">
 </details>
 
 ***
