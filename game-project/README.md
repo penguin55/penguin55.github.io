@@ -178,7 +178,7 @@
 | Status        | Projek Grup Riset MGM FILKOM UB                      |
 | Platform      | Android                                              |
 | Link Projek   | Belum Tersedia (Store tidak aktif)                   |
-| Detail Projek | Jagoan Indonesia merupakan game android hasil dari pembuatan ulang game Jagoan Indonesia pada platform iOS untuk dapat dipasarkan kedalam pasar android, bekerja sama dengan Student Employee Multimedia, Game dan Mobile dari Fakultas Ilmu Komputer, Universitas Brawijaya bersama dengan Mirai Education untuk membuat game edukasi. |
+| Detail Projek | Jagoan Indonesia merupakan game android hasil dari pembuatan ulang game Jagoan Indonesia pada platform iOS untuk dapat dipasarkan kedalam pasar android, bekerja sama dengan Student Employee Multimedia, Game dan Mobile dari Fakultas Ilmu Komputer, Universitas Brawijaya bersama dengan Mirai Education untuk membuat game edukasi. Mekanisme game ini dengan melakukan drag n drop pulau-pulau yang tersebar untuk dicocokan ke dalam posisi yang benar. |
 
 ***
 
