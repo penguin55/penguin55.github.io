@@ -1,6 +1,6 @@
 # About Me
 
-![Work Progress Warn](https://img.shields.io/badge/-MY%20PORTFOLIO%20IS%20UNDER%20MAINTENANCE-red) <br>
+<!-- ![Work Progress Warn](https://img.shields.io/badge/-MY%20PORTFOLIO%20IS%20UNDER%20MAINTENANCE-red) <br> -->
 ![Update Date](https://img.shields.io/badge/-Updated%20on%20April%2019%2C%202022-brightgreen) <br>
 
 Halo. Saya seorang **Game Programmer** yang berfokus pada pengembangan game menggunakan Unity Engine. Saat ini saya senang dalam mengeksplorasi banyak hal mengenai optimasi didalam game maupun game engine. Saya memiliki mimpi untuk dapat membuat game engine sendiri maupun dalam tim, oleh karena itu saya membuat beberapa plugin reusable yang dapat saya gunakan kembali dalam projek game selanjutnya ataupun dibagikan kepada orang yang membutuhkan plugin tersebut. Ini adalah portofolio singkat saya sebagai seorang **Game Programmer**.
@@ -72,8 +72,15 @@ Berikut adalah beberapa kontribusi saya sebagai programmer pada projek game baik
 
 Saya mencoba untuk membuat banyak plugin dan library game untuk memfasilitasi dan memudahkan pengembangan game kedepannya yang saya lakukan dengan menggunakan game engine Unity. 
 
-#### Audio Loops
+#### Water Allside
 
-Audio Loop adalah plugin untuk Unity Engine yang saya kembangkan untuk membantu memutar sebuah audio game dengan perulangan pada waktu spesifik yang diinginkan. Unity Engine sebenernya dapat melakukan pekerjaan ini dengan memutar audio berulang melalui komponen Audio Source, tetapi jika ingin memutar audio berulang pada waktu yang spesifik dalam audio file tersebut maka dibutuhkan koding yang sedikit lebih kompleks untuk mendefinisikan sendiri dimana audio ingin diulang atau dengan manual memotong audio file melalui third party audio lain. Di dalam library / plugin ini, sudah ada fungsi tersebut sehingga untuk mengulang audio dengan spesifik waktu cukup panggil fungsi tersebut, untuk cara menggunakannya teradapat dokumentasi yang sudah tertera pada link repository.
+![WA](/images/lib/water-allside.gif)
+
+|             |                    |
+| ----------- | ------------------ |
+| Status      | Dalam pengembangan |
+| Link        | Tidak tersedia     | 
+
+Simulasi air dengan memanfaatkan semua sisi bangun saat berinteraksi dengan objek. (Tidak hanya sisi atas / 1 sisi melainkan semua sisi dari bangun objek air) 
 
 [Read More](/game-lib)
