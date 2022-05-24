@@ -1,16 +1,12 @@
-# Halo Beta Tester
+# FILKOM Virtual v 0.1.0
 
-Terima kasih sudah mau test gamenya, hasil test game mau dipakai buat improvisasi gameplay biar makin ciamik XD
-## Filkom Virtual
-![Preview](images/preview-filkom-virtual.png)
+Versi 0.1.0 merupakan versi pengujian pertama FILKOM Virtual dengan total **1 Rangkaian, 3 Penugasan dan 3 Achievement**. Tetntunya data yang ada masih berupa data sementara yang akan berubah seiring pengujian berlangsung.
 
-FILKOM Virtual merupakan game simulasi PK2Maba untuk mahasiswa baru FILKOM dimana peneliti berharap bahwa mahasiswa baru dapat mengenal kampus lebih dekat dengan dikenalkan kampus FILKOM secara virtual. Game ini akan memiliki penugasan-penugasan yang didasarkan dari rangkaian acara PK2Maba.
-
-***
-### New Update
-[v 0.1.0](https://drive.google.com/file/d/1OXcQWFGbePp99OyAwyi82upQK671Tv4w/view?usp=sharing) <br>
+[Link Download](https://drive.google.com/file/d/1OXcQWFGbePp99OyAwyi82upQK671Tv4w/view?usp=sharing) <br>
 [Link Saran dan Kritik](https://forms.gle/H3mCdJaQwjFPBsHw8) &nbsp;&nbsp; <sub>*Jangan sadis ngasih kritik ya :D*</sub>
-***
 
-### Log Update Version
-![Update Date](https://img.shields.io/badge/-24%20Mei%202022-brightgreen) &nbsp;&nbsp; [v 0.1.0](https://drive.google.com/file/d/1OXcQWFGbePp99OyAwyi82upQK671Tv4w/view?usp=sharing) <br>
+## Change Log
+- 1 Rangkaian terdaftar
+- 3 Penugasan (1 penugasan beruntun)
+- 3 Achievement
+- 7 penguji game terdaftar
