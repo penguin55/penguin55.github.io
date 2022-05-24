@@ -1,16 +1,41 @@
-# Halo Beta Tester
+# Cara Memainkan FILKOM Virtual
 
-Terima kasih sudah mau test gamenya, hasil test game mau dipakai buat improvisasi gameplay biar makin ciamik XD
-## Filkom Virtual
-![Preview](images/preview-filkom-virtual.png)
+Langkah Bermain:
+- [Login atau Bermain Sebagai Guest](#menu-utama)
+- [Selesaikan Penugasan yang Diberikan](#penugasan)
+- [Selesaikan Achievement yang Diberikan](#achievement)
 
-FILKOM Virtual merupakan game simulasi PK2Maba untuk mahasiswa baru FILKOM dimana peneliti berharap bahwa mahasiswa baru dapat mengenal kampus lebih dekat dengan dikenalkan kampus FILKOM secara virtual. Game ini akan memiliki penugasan-penugasan yang didasarkan dari rangkaian acara PK2Maba.
+[Note Penting](#note)
 
 ***
-### New Update
-[v 0.1.0](https://drive.google.com/file/d/1OXcQWFGbePp99OyAwyi82upQK671Tv4w/view?usp=sharing) <br>
-[Link Saran dan Kritik](https://forms.gle/H3mCdJaQwjFPBsHw8) &nbsp;&nbsp; <sub>*Jangan sadis ngasih kritik ya :D*</sub>
+
+### Menu Utama
+![Main Page](../images/preview-filkom-virtual.png)
+Pada menu awal anda akan dihadapkan dengan 2 tombol dengan keterangan sebagai berikut :
+- Tombol Play as Guest adalah mode bermain publik yang tidak akan menyimpan data permainan namun pemain tetap dapat memainkan seluruh konten dalam gim
+- Tombol Login adalah mode bermain dengan akun terdaftar dimana progres data dalam gim akan disimpan kedalam server sehingga pemain masih bisa melanjutkan permainan tanpa mengulang dari awal. 
+
 ***
 
-### Log Update Version
-![Update Date](https://img.shields.io/badge/-24%20Mei%202022-brightgreen) &nbsp;&nbsp; [v 0.1.0](https://drive.google.com/file/d/1OXcQWFGbePp99OyAwyi82upQK671Tv4w/view?usp=sharing) <br>
+### Penugasan
+![Tombol Penugasan](../images/turorial-1.png)
+![Penugasan](../images/tutorial-rangkaian.png)
+![Penugasan Detail](../images/tutorial-rangkaian-detail.png)
+
+Daftar penugasan dapat dilihat pada tombol yang dikotak biru, daftar penugasan akan berbeda setiap rangkaian PK2Maba yang ada. Anda dapat menekan salah satu daftar penugasan untuk dapat melihat penugasan lebih detail. Selesaikan penugasan seperti yang diminta maka daftar akan berubah menjadi ceklis dan data akan disimpan apabila bermain sebagai pemain yang terdaftar (bukan bermain sebagai Guest).
+
+***
+
+### Achievement
+![Tombol Achievement](../images/turorial-1.png)
+![Achievement](../images/tutorial-achievement.png)
+![Penugasan Detail](../images/tutorial-achievement-detail.png)
+
+Daftar achievement dapat dilihat pada kotak merah yang telah ditandai. Sama seperti penugasan, apabila salah satu daftar achievement ditekan maka akan ditampilkan informasi lebih lengkap dari achievement tersebut apabila sudah didapatkan.
+
+***
+
+### Note
+![Note Rangkaian](../images/informasi-rangkaian.png)
+
+Untuk mengetahui rangkaian apa yang saat ini aktif untuk dikerjakan penugasannya, dapat dilihat pada bagian penugasan. Pada bagian gambar yang dikotak merah merupakan informasi rangkaian yang saat ini sedang aktif. **(Percobaan 1 masih terdapat 1 rangkaian saja)**
