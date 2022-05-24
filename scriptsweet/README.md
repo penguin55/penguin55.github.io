@@ -2,7 +2,8 @@
 
 Terima kasih sudah mau test gamenya, hasil test game mau dipakai buat improvisasi gameplay biar makin ciamik XD
 ## Filkom Virtual
-![Preview](images/preview-filkom-virtual.png)
+![Preview](images/filkom-virtual.gif)
+<!-- ![Preview](images/preview-filkom-virtual.png) -->
 
 FILKOM Virtual merupakan game simulasi PK2Maba untuk mahasiswa baru FILKOM dimana peneliti berharap bahwa mahasiswa baru dapat mengenal kampus lebih dekat dengan dikenalkan kampus FILKOM secara virtual. Game ini akan memiliki penugasan-penugasan yang didasarkan dari rangkaian acara PK2Maba.
 
