@@ -11,8 +11,8 @@ Bagi yang belum tau memainkan gamenya bisa baca di page berikut : [Cara Memainka
 
 ***
 ### New Update
-[v 0.1.0](pengujian-1) <br>
-[Link Saran dan Kritik](https://forms.gle/H3mCdJaQwjFPBsHw8) &nbsp;&nbsp; <sub>*Jangan sadis ngasih kritik ya :D*</sub>
+[v 0.1.0](pengujian-1)
+
 ***
 
 ### Log Update Version
