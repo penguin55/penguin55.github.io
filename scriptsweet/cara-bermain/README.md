@@ -1,5 +1,7 @@
 # Cara Memainkan FILKOM Virtual
 
+> Visual UI bisa saja berubah seiring perubahan build versi. Tutorial Page telah disediakan pada gim mulai build versi 0.2.0
+
 Langkah Bermain:
 - [Login atau Bermain Sebagai Guest](#menu-utama)
 - [Selesaikan Penugasan yang Diberikan](#penugasan)
