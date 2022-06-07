@@ -1,6 +1,6 @@
 # FILKOM Virtual v 0.2.0
 
-Versi 0.2.0 merupakan versi pengujian kedua FILKOM Virtual dengan beberapa perubahan visual dan perbaikan mekanik game. Pada pengujian kedua masih terdapat total **1 Rangkaian, X Penugasan dan Y Achievement** yang disediakan. Tentunya data yang ada masih berupa data sementara yang akan berubah seiring pengujian berlangsung.
+Versi 0.2.0 merupakan versi pengujian kedua FILKOM Virtual dengan beberapa perubahan visual dan perbaikan mekanik game. Pada pengujian kedua masih terdapat total **1 Rangkaian, 17 Penugasan dan 6 Achievement** yang disediakan. Tentunya data yang ada masih berupa data sementara yang akan berubah seiring pengujian berlangsung.
 
 [Link Download](https://drive.google.com/file/d/1pSaG9N17ljVmPgdbDytsr1Yvagev3cDC/view?usp=sharing) <br>
 [Link Saran dan Kritik](https://forms.gle/dh1fKMEn17MrL5g78) &nbsp;&nbsp; <sub>*Kritiknya ya, jangan lupa. :D*</sub>
