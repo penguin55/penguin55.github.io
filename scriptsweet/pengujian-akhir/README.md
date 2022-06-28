@@ -1,0 +1,25 @@
+# FILKOM Virtual v 1.0.1
+
+Versi 1.0.1 merupakan versi pengujian akhir FILKOM Virtual dengan beberapa perubahan visual dan perbaikan mekanik game. Pada pengujian akhir akan dilakukan pengujian 3 rangkaian yang akan diadakan pada jadwal berikut.
+
+Jadwal Rangkaian
+- Rangkaian 1 : Rabu, 29 Juni 2022
+- Rangkaian 2 : Kamis, 30 Juni 2022
+- Rangkaian 3 : Jumat, 01 Juli 2022
+
+**Rangkaian akan berganti setiap jam 08:00 WIB di ketiga hari tersebut.**
+
+[Link Download](https://drive.google.com/file/d/1GR1YPAYdh571kM_2NkKOKqSv5d5F4iZ6/view?usp=sharing) <br>
+[Link GEQ]() &nbsp;&nbsp; <sub>*GEQ (Game Experience Questionnaire) diisi pada hari ketiga, yaitu pada hari Jumat*</sub>
+
+## Change Log
+
+### UI
+- [Add] Penanda Gedung pada Map
+
+### Data
+- [Add] 3 Rangkaian (Knowledge, Share Your Moments dan Open House)
+- [Add] 38 Penugasan
+- [Add] 12 Achievement
+- [Add] 16 NPC (11 NPC kelembagaan dan komunitas + 5 NPC Panitia)
+- [Add] 16 Dialog
