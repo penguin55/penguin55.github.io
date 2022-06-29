@@ -9,7 +9,7 @@ Jadwal Rangkaian
 
 **Rangkaian akan berganti setiap jam 08:00 WIB di ketiga hari tersebut.**
 
-[Link Download](https://drive.google.com/file/d/1JuPYuXKMtcqRxmCvyT-_oqaoxhT8YMD9/view?usp=sharing) <br>
+[Link Download](https://drive.google.com/file/d/19iVAVLF7VzGc0uKeVjCpRG53Ps50PkxQ/view?usp=sharing) <br>
 [Link GEQ]() &nbsp;&nbsp; <sub>*GEQ (Game Experience Questionnaire) diisi pada hari ketiga, yaitu pada hari Jumat*</sub>
 
 ## Change Log
