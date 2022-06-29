@@ -11,10 +11,11 @@ Bagi yang belum tau memainkan gamenya bisa baca di page berikut : [Cara Memainka
 
 ***
 ### New Update
-[v 0.2.0](pengujian-2)
+[v 1.0.2](pengujian-akhir)
 
 ***
 
 ### Log Update Version
+![Update Date](https://img.shields.io/badge/-28%20Juni%202022-brightgreen) &nbsp;&nbsp; [v 1.0.2](pengujian-akhir) <br>
 ![Update Date](https://img.shields.io/badge/-05%20Juni%202022-brightgreen) &nbsp;&nbsp; [v 0.2.0](pengujian-2) <br>
 ![Update Date](https://img.shields.io/badge/-24%20Mei%202022-brightgreen) &nbsp;&nbsp; [v 0.1.0](pengujian-1) <br>
