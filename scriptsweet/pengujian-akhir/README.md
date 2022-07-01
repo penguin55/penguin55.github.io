@@ -1,6 +1,6 @@
-# FILKOM Virtual v 1.0.3
+# FILKOM Virtual v 1.0.4
 
-Versi 1.0.3 merupakan versi pengujian akhir FILKOM Virtual dengan beberapa perubahan visual dan perbaikan mekanik game. Pada pengujian akhir akan dilakukan pengujian 3 rangkaian yang akan diadakan pada jadwal berikut.
+Versi 1.0.4 merupakan versi pengujian akhir FILKOM Virtual dengan beberapa perubahan visual dan perbaikan mekanik game. Pada pengujian akhir akan dilakukan pengujian 3 rangkaian yang akan diadakan pada jadwal berikut.
 
 Jadwal Rangkaian
 - Rangkaian 1 : Rabu, 29 Juni 2022
