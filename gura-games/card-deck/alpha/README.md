@@ -8,8 +8,14 @@
 (Untitled Project), merupakan game yang dikembangkan untuk Compfest
 
 ***
-### New Update
-[v 0.0.1-alpha](https://drive.google.com/file/d/149fJvMhJ9UnS_Nmt1iTdq9A19uUbfeEq/view?usp=sharing)
+### Detail
+
+|                 |                                           |
+| --------------- | ----------------------------------------- |
+| Game            | (Untitled Project)                        |
+| Status          | On Development                            |
+| Current Version | [v 0.0.1-alpha](https://drive.google.com/file/d/149fJvMhJ9UnS_Nmt1iTdq9A19uUbfeEq/view?usp=sharing) |
+| Team         | [Bayu Reza Gunawan](https://github.com/Bazureza) **[2D Artist]**<br> [Mujiburrahman Haekal Fajry](https://www.linkedin.com/in/haekalary/) **[Designer and Project Manager]**<br> [Robertus Dwi Ari Utomo](https://penguin55.github.io) **[Programmer]**<br> |
 
 ***
 
