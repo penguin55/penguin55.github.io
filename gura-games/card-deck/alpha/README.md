@@ -14,10 +14,11 @@
 | --------------- | ----------------------------------------- |
 | Game            | (Untitled Project)                        |
 | Status          | On Development                            |
-| Current Version | [v 0.0.1-alpha](https://drive.google.com/file/d/149fJvMhJ9UnS_Nmt1iTdq9A19uUbfeEq/view?usp=sharing) |
+| Current Version | [v 0.0.2-alpha](https://drive.google.com/file/d/1xf172CTlv6SsHfquLpFELVGgiaLOt3C9/view?usp=sharing) |
 | Team         | [Bayu Reza Gunawan](https://github.com/Bazureza) **[2D Artist]**<br> [Mujiburrahman Haekal Fajry](https://www.linkedin.com/in/haekalary/) **[Designer and Project Manager]**<br> [Robertus Dwi Ari Utomo](https://penguin55.github.io) **[Programmer]**<br> |
 
 ***
 
 ### Log Update Version
+![Update Date](https://img.shields.io/badge/-20%20Agustus%202022-brightgreen) &nbsp;&nbsp; [v 0.0.2-alpha](https://drive.google.com/file/d/149fJvMhJ9UnS_Nmt1iTdq9A19uUbfeEq/view?usp=sharing) <br>
 ![Update Date](https://img.shields.io/badge/-15%20Agustus%202022-brightgreen) &nbsp;&nbsp; [v 0.0.1-alpha](https://drive.google.com/file/d/149fJvMhJ9UnS_Nmt1iTdq9A19uUbfeEq/view?usp=sharing) <br>
