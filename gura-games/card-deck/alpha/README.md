@@ -14,13 +14,14 @@
 | --------------- | ----------------------------------------- |
 | Game            | (Untitled Project)                        |
 | Status          | On Development                            |
-| Current Version | [v 0.0.4-alpha](https://drive.google.com/file/d/1qOenIKJ7B3aJjNKHv7OIoCvM1f3pkR1H/view?usp=sharing) |
+| Current Version | [v 0.1.0-beta](https://drive.google.com/file/d/1T_g7xXMujV0sQgoLT-B5mRhdxE47QoSC/view?usp=sharing) |
 | Team         | [Bayu Reza Gunawan](https://github.com/Bazureza) **[2D Artist]**<br> [Mujiburrahman Haekal Fajry](https://www.linkedin.com/in/haekalary/) **[Designer and Project Manager]**<br> [Robertus Dwi Ari Utomo](https://penguin55.github.io) **[Programmer]**<br> |
 
 ***
 
 ### Log Update Version
 
+![Update Date](https://img.shields.io/badge/-04%20September%202022-brightgreen) &nbsp;&nbsp; [v 0.1.0-beta](https://drive.google.com/file/d/1T_g7xXMujV0sQgoLT-B5mRhdxE47QoSC/view?usp=sharing) <br>
 ![Update Date](https://img.shields.io/badge/-04%20September%202022-brightgreen) &nbsp;&nbsp; [v 0.0.4-alpha](https://drive.google.com/file/d/1qOenIKJ7B3aJjNKHv7OIoCvM1f3pkR1H/view?usp=sharing) <br>
 ![Update Date](https://img.shields.io/badge/-03%20September%202022-brightgreen) &nbsp;&nbsp; [v 0.0.3-alpha](https://drive.google.com/file/d/1pNcvtRQNxovWa6SsW6ASWGzQK_AMY9KI/view?usp=sharing) <br>
 ![Update Date](https://img.shields.io/badge/-20%20Agustus%202022-brightgreen) &nbsp;&nbsp; [v 0.0.2-alpha](https://drive.google.com/file/d/1xf172CTlv6SsHfquLpFELVGgiaLOt3C9/view?usp=sharing) <br>
