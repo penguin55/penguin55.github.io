@@ -11,3 +11,6 @@ Berikut adalah keperluan skripsi yang saya lakukan, untuk mengakses dokumen bisa
 ## Projek dan Build FILKOM Virtual
 [Github Project](https://github.com/penguin55/FILKOMVirtual) <br>
 [Build Game](https://penguin55.github.io/scriptsweet) <br>
+
+
+[Important Note](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
