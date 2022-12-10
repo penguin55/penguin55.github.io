@@ -4,6 +4,7 @@
 * [Best Visual - Game Jam+ 2022](#best-visual-game-jam-plus-2022)
 * [Best Audio - Game Jam+ 2022](#best-audio-game-jam-plus-2022)
 * [Juara 1 - Retas Budaya 2020](#juara-1-retas-budaya-2020)
+* [Bronze Medal - Taiwan Innotech Expo 2019](#bronze-medal-taiwan-innotech-expo-2019)
 
 ***
 
