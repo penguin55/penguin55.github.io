@@ -19,7 +19,7 @@
 
 Pencapaian dalam bentuk Sertifikasi baik Lomba maupun Kursus yang pernah saya ikuti berkaitan dengan pengembangan game baik tingkat Lokal, Nasional maupun Internasional. Sertifikat saya dapatkan dari awal perjalanan saya terjun kedalam dunia pengembangan game hingga terakhir portfolio ini diperbarui.
 
-[Lihat Pencapaian](/achievement)
+[Lihat Pencapaian](/about-me/achievement)
 
 ***
 
@@ -27,6 +27,6 @@ Pencapaian dalam bentuk Sertifikasi baik Lomba maupun Kursus yang pernah saya ik
 
 Saya menyukai tantangan dan ingin menerapkannya dalam waktu terbatas, sehingga saya senang dalam mengikuti event gamejam baik online maupun onsite, berikut adalah beberapa event gamejam yang pernah saya ikuti dari awal hingga terakhir portfolio ini diperbarui.
 
-[Lihat Perjalanan Saya](/game-jam)
+[Lihat Perjalanan Saya](/about-me/game-jam)
 
 ***
