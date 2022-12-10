@@ -1,6 +1,6 @@
 # About Me
 
-Halo. Saya **Ari** Utomo dari Malang. Saya adalah lulusan **Teknik Informatika, Universitas Brawijaya** pada tahun 2022. Saya seorang **Game Programmer** yang berfokus pada C#. Saya suka dalam mengeksplorasi hal-hal mengenai programming, saya juga mempelajari bahasa pemrogramman Java, C++ dan Javascript dari perkuliahan.
+Halo. Saya **Ari** Utomo dari Malang. Saya adalah lulusan **Teknik Informatika, Universitas Brawijaya** pada tahun 2022. Saya seorang **Game Programmer** yang berfokus pada **C#**. Saya suka dalam mengeksplorasi hal-hal mengenai programming, saya juga mempelajari bahasa pemrogramman **Java**, **C++** dan **Javascript** dari perkuliahan.
 
 [Ingin tau saya lebih jauh?](/about-me)
 
