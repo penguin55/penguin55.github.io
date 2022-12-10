@@ -43,7 +43,7 @@
 
 ## IGSI Gamejam 2021 Kategori Pelajar
 
-![TM IGSI Gamejam](../../images/gamejam/igsigamejamkategoripelajar2022.png)
+![TM IGSI Gamejam](../../images/gamejam/igsigamejamkategoripelajar2021.png)
 
 |					|															|
 | ----------------- | --------------------------------------------------------- |
