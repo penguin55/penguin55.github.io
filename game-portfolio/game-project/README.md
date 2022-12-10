@@ -1,8 +1,54 @@
-[Click To Back](../)
+[Kembali](../)
+
+# Daftar Projek
+* [Mirth Island](#mirth-island)
+* [Faerie Afterlight](#faerie-afterlight)
+* [Paralel Universe](#paralel-universe)
+* [Pajak Kita Untuk Kita](#pajak-kita-untuk-kita)
+* [Tower Madness](#tower-madness)
+* [Arthiefactor](#arthiefactor)
+* [Bumi](#bumi)
+* [Super Janitor Bros](#super-janitor-bros)
+* [One Two three Dango!](#one-two-three-dango!)
+* [Les Plague](#les-plague)
+* [The Fountain of Youth](#the-fountain-of-youth)
+* [Spacecraft Impact](#spacecraft-impact)
+* [Jagoan Indonesia](#jagoan-indonesia)
+* [Save Santa](#save-santa)
+* [Tap Jet](#tap-jet)
+* [Brou](#brou)
+* [Marapi](#marapi)
+* [Doctor DO](#doctor-do)
+* [Supeltas](#supeltas)
+* [Super Pong Neon](#super-pong-neon)
+* [Strofos](#strofos)
+* [Fun With Piano](#fun-with-piano)
+* [Neon Runner](#neon-runner)
+* [Space Shooter](#space-shooter)
+* [ATAP](#atap)
+* [Escape](#escape)
+* [Plug n Play](#plug-n-play)
+* [Dibalik Layar](#dibalik-layar)
+* [Gadget Factory](#gadget-factory)
 
 ***
 
-# Faerie Afterlight
+## Mirth Island
+
+![Image](/images/game/mirth-island.png)
+
+|               |                                                      |
+| -----------   | ---------------------------------------------------- |
+| Nama Game     | Mirth Island		                                   |
+| Masa Kerja    | November 2022 - sekarang                             |
+| Status        | Sedang tahap pengerjaan                              |
+| Platform      | Windows                                              |
+| Link Projek   | [Itch.io](https://ilhamhe.itch.io/mirth-island)	   |
+| Detail Projek | Mirth Island dikembangkan oleh [Clay Game Studio](http://claygamestudio.com/) untuk ajang Game Jam+ 2022, saya bertanggung jawab pada posisi Lead Programmer pada projek game ini.				 |
+
+***
+
+## Faerie Afterlight
 
 ![Image](/images/game/faerie-afterlight.png)
 
@@ -17,7 +63,7 @@
 
 ***
 
-# Paralel Universe 
+## Paralel Universe 
 
 ![Image](/images/game/paralel-universe.png)
 
@@ -32,7 +78,7 @@
 
 ***
 
-# Pajak Kita Untuk Kita
+## Pajak Kita Untuk Kita
 
 ![Image](/images/game/pajak-kita-untuk-kita.png)
 
@@ -47,7 +93,7 @@
 
 ***
 
-# Tower Madness
+## Tower Madness
 
 ![Image](/images/game/tower-madness.png)
 
@@ -62,7 +108,7 @@
 
 ***
 
-# Arthiefactor
+## Arthiefactor
 
 ![Image](/images/game/arthiefactor.png)
 
@@ -77,7 +123,7 @@
 
 ***
 
-# Bumi
+## Bumi
 
 ![Image](/images/game/bumi.png)
 
@@ -92,7 +138,7 @@
 
 ***
 
-# Super Janitor Bros
+## Super Janitor Bros
 
 ![Image](/images/game/super-janitor-bros.png)
 
@@ -107,7 +153,7 @@
 
 ***
 
-# One Two three Dango!
+## One Two three Dango!
 
 ![Image](/images/game/one-two-three-dango.png)
 
@@ -122,7 +168,7 @@
 
 ***
 
-# Les Plague
+## Les Plague
 
 ![Image](/images/game/les-plague.png)
 
@@ -137,7 +183,7 @@
 
 ***
 
-# The Fountain of Youth
+## The Fountain of Youth
 
 ![Image](/images/game/the-fountain-of-youth.png)
 
@@ -152,7 +198,7 @@
 
 ***
 
-# Spacecraft Impact
+## Spacecraft Impact
 
 ![Image](/images/game/spacecraft-impact.png)
 
@@ -167,7 +213,7 @@
 
 ***
 
-# Jagoan Indonesia
+## Jagoan Indonesia
 
 ![Image](/images/game/jagoan-indonesia.png)
 
@@ -182,7 +228,7 @@
 
 ***
 
-# Save Santa
+## Save Santa
 
 ![Image](/images/game/save-santa.png)
 
@@ -197,7 +243,7 @@
 
 ***
 
-# Tap Jet
+## Tap Jet
 
 ![Image](/images/game/tap-jet.png)
 
@@ -212,7 +258,7 @@
 
 ***
 
-# Brou
+## Brou
 
 ![Image](/images/game/brou.png)
 
@@ -227,7 +273,7 @@
 
 ***
 
-# Marapi
+## Marapi
 
 ![Image](/images/game/marapi.png)
 
@@ -242,7 +288,7 @@
 
 ***
 
-# Doctor DO
+## Doctor DO
 
 ![Image](/images/game/doctor-do.png)
 
@@ -257,7 +303,7 @@
 
 ***
 
-# Supeltas
+## Supeltas
 
 ![Image](/images/game/supeltas.png)
 
@@ -272,7 +318,7 @@
 
 ***
 
-# Super Pong Neon
+## Super Pong Neon
 
 ![Image](/images/game/super-pong-neon.png)
 
@@ -287,7 +333,7 @@
 
 ***
 
-# Strofos
+## Strofos
 
 ![Image](/images/game/strofos.png)
 
@@ -298,13 +344,11 @@
 | Status        | Projek Gamejam \| Prototype                          |
 | Platform      | HTML5                                                |
 | Link Projek   | [Strofos](https://simmer.io/@ariutomo/strofos)       |
-| Detail Projek | Ini adalah game yang mengimplementasikan INVERTER dengan hanya 2 warna dalam game. Mode terbalik akan menyala jika player memasuki area hitam
-(latar belakang hitam) dan akan tidak aktif saat memasuki area putih (latar belakang putih). Setiap wilayah memiliki 10 detik,
-player hanya bisa bertahan selama itu, jika waktu habis maka game selesai. Tujuan dari permainan ini adalah untuk mencapai finish yang ada di akhir level ini, mencapai finish berbentuk kotak dengan lingkaran di dalamnya. Player akan mati dan kembali ke posisi awal jika terkena duri, selain itu player akan kehilangan waktu 2 detik di daerah tersebut. |
+| Detail Projek | Ini adalah game yang mengimplementasikan INVERTER dengan hanya 2 warna dalam game. Mode terbalik akan menyala jika player memasuki area hitam (latar belakang hitam) dan akan tidak aktif saat memasuki area putih (latar belakang putih). Setiap wilayah memiliki 10 detik, player hanya bisa bertahan selama itu, jika waktu habis maka game selesai. Tujuan dari permainan ini adalah untuk mencapai finish yang ada di akhir level ini, mencapai finish berbentuk kotak dengan lingkaran di dalamnya. Player akan mati dan kembali ke posisi awal jika terkena duri, selain itu player akan kehilangan waktu 2 detik di daerah tersebut. |
 
 ***
 
-# Fun With Piano
+## Fun With Piano
 
 ![Image](/images/game/piano-tiles.png)
 
@@ -319,7 +363,7 @@ player hanya bisa bertahan selama itu, jika waktu habis maka game selesai. Tujua
 
 ***
 
-# Neon Runner
+## Neon Runner
 
 ![Image](/images/game/neon-runner.png)
 
@@ -330,12 +374,11 @@ player hanya bisa bertahan selama itu, jika waktu habis maka game selesai. Tujua
 | Status        | Projek Pribadi                                       |
 | Platform      | Windows                                              |
 | Link Projek   | [Neon Runner](https://drive.google.com/drive/folders/1fPrd5-2lMvIafSx2jrdOESGsa0PYZOiT?usp=sharing) |
-| Detail Projek | Neon Runner adalah game kompetitif multiplayer yang dapat dimainkan secara lokal. Terinspirasi dari Speed Runner dengan mekanismenya
-dalam grapple suatu tempat, permainan ini menggunakan mekanik grapple untuk berpindah dari titik pertama ke titik grapple. |
+| Detail Projek | Neon Runner adalah game kompetitif multiplayer yang dapat dimainkan secara lokal. Terinspirasi dari Speed Runner dengan mekanismenya dalam grapple suatu tempat, permainan ini menggunakan mekanik grapple untuk berpindah dari titik pertama ke titik grapple. |
 
 ***
 
-# Space Shooter
+## Space Shooter
 
 ![Image](/images/game/space-shooter.png)
 
@@ -346,12 +389,11 @@ dalam grapple suatu tempat, permainan ini menggunakan mekanik grapple untuk berp
 | Status        | Projek Magang RAION                                  |
 | Platform      | Windows                                              |
 | Link Projek   | [Space Shooter](https://drive.google.com/drive/folders/1hznsKD2e-beWlTbCFXkNSr-Blp2sNvDf?usp=sharing) |
-| Detail Projek | Terinspirasi dari Space Impact dengan gameplay kasual, Space Shooter hadir dengan mekanik yang sama dengan beberapa modifikasi
-untuk memungkinkan pemain menggunakan keterampilan dan bermain multiplayer secara lokal. Skill dari karakter akan berbeda jika memainkan mode single player dan mode multiplayer. Setiap tahap memiliki musuh dengan kesulitan yang berbeda, pemain harus membunuh mereka dan mencapai bos setiap tahap untuk pindah ke level berikutnya. |
+| Detail Projek | Terinspirasi dari Space Impact dengan gameplay kasual, Space Shooter hadir dengan mekanik yang sama dengan beberapa modifikasi untuk memungkinkan pemain menggunakan keterampilan dan bermain multiplayer secara lokal. Skill dari karakter akan berbeda jika memainkan mode single player dan mode multiplayer. Setiap tahap memiliki musuh dengan kesulitan yang berbeda, pemain harus membunuh mereka dan mencapai bos setiap tahap untuk pindah ke level berikutnya. |
 
 ***
 
-# ATAP
+## ATAP
 
 ![Image](/images/game/atap.png)
 
@@ -366,7 +408,7 @@ untuk memungkinkan pemain menggunakan keterampilan dan bermain multiplayer secar
 
 ***
 
-# Escape
+## Escape
 
 ![Image](/images/game/escape.png)
 
@@ -381,7 +423,7 @@ untuk memungkinkan pemain menggunakan keterampilan dan bermain multiplayer secar
 
 ***
 
-# Plug n Play
+## Plug n Play
 
 ![Image](/images/game/plug-n-play.png)
 
@@ -392,12 +434,11 @@ untuk memungkinkan pemain menggunakan keterampilan dan bermain multiplayer secar
 | Status        | Projek Lomba \| Prototype                            |
 | Platform      | Windows                                              |
 | Link Projek   | Belum Tersedia                                       |
-| Detail Projek | Sebuah game mobile dengan genre stealth, dimana player harus membunuh robot untuk dapat sampai ke ruang utama untuk menonaktifkan generator
-perusahaan. Perusahaan mencoba menginvasi dunia dengan robot. |
+| Detail Projek | Sebuah game mobile dengan genre stealth, dimana player harus membunuh robot untuk dapat sampai ke ruang utama untuk menonaktifkan generator perusahaan. Perusahaan mencoba menginvasi dunia dengan robot. |
 
 ***
 
-# Dibalik Layar
+## Dibalik Layar
 
 ![Image](/images/game/dibalik-layar.png)
 
@@ -412,7 +453,7 @@ perusahaan. Perusahaan mencoba menginvasi dunia dengan robot. |
 
 ***
 
-# Gadget Factory
+## Gadget Factory
 
 ![Image](/images/game/gadget-factory.png)
 

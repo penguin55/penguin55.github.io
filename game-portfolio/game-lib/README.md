@@ -1,8 +1,14 @@
-[Click To Back](../)
+[Kembali](../)
+
+# Daftar Plugin
+* [Water Allside](#water-allside)
+* [Audio Loops](#audio-loops)
+* [Pergerakan Objek di Dalam Ruang Donat dengan 2 Radius](#pergerakan-objek-di-dalam-ruang-donat-dengan-2-radius)
+* [Pergerakan Objek di Dalam Lingkaran dengan Radius](#pergerakan-objek-di-dalam-lingkaran-dengan-radius)
 
 ***
 
-# Water Allside
+## Water Allside
 
 ![WA](/images/lib/water-allside.png)
 
@@ -26,7 +32,7 @@ Simulasi air dengan memanfaatkan semua sisi bangun saat berinteraksi dengan obje
 
 ***
 
-# Audio Loops
+## Audio Loops
 
 ![AL](/images/lib/audio-loops.gif)
 
@@ -39,7 +45,7 @@ Audio Loop adalah plugin untuk Unity Engine yang saya kembangkan untuk membantu 
 
 ***
 
-# Pergerakan Objek di Dalam Ruang Donat dengan 2 Radius
+## Pergerakan Objek di Dalam Ruang Donat dengan 2 Radius
 
 ![Doughnut](/images/lib/translate-inside-a-2d-doughnut.gif)
 
@@ -52,7 +58,7 @@ Improvisasi dari [Pergerakan Objek di Dalam Lingkaran dengan Radius](#pergerakan
 
 ***
 
-# Pergerakan Objek di Dalam Lingkaran dengan Radius
+## Pergerakan Objek di Dalam Lingkaran dengan Radius
 
 ![Cirlce](/images/lib/translate-inside-a-circle.gif)
 
