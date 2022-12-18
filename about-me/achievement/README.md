@@ -3,6 +3,7 @@
 # Sertifikat Kompetisi
 * [Best Visual - Game Jam+ 2022](#best-visual-game-jam-plus-2022)
 * [Best Audio - Game Jam+ 2022](#best-audio-game-jam-plus-2022)
+* [Rising Star Award - Level Up KL 2022](#rising-star-award-level-up-kuala-lumpur-2022)
 * [Juara 1 - Retas Budaya 2020](#juara-1-retas-budaya-2020)
 * [Bronze Medal - Taiwan Innotech Expo 2019](#bronze-medal-taiwan-innotech-expo-2019)
 
@@ -34,6 +35,18 @@
 | Acara				| [Game Jam+ 2022](../game-jam/#game-jam-plus-2022)			|
 | Waktu				| November 2022												|
 | Tipe				| **Lomba**													|
+
+<br>
+
+## Rising Star Award Level Up Kuala Lumpur 2022
+![GJP 2022](../../images/achievement/gjp2022-best-audio.png)
+
+|					|															|
+| ----------------- | --------------------------------------------------------- |
+| Game				| [Faerie Afterlight](../../game-project/#faerie-afterlight)			|
+| Acara				| [Level Up KL 2022](https://www.facebook.com/lvlupkualalumpur/photos/pcb.5677448625651943/5677416708988468)			|
+| Waktu				| Oktober 2022												|
+| Tipe				| **SEA Game Award**													|
 
 <br>
 
