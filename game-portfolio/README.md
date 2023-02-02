@@ -14,3 +14,10 @@ Saya mencoba membuat banyak plugin game untuk memfasilitasi pengembangan game me
 [Buka Daftar Projek Plugin](/game-portfolio/game-lib)
 
 ***
+
+# Saya sebagai 3D Voxel Modeller
+Saya mencoba mempelajari kemampuan lain dalam membuat 3D model dengan style voxel
+
+[Buka Daftar Projek Voxel](/game-portfolio/voxel-project)
+
+***
