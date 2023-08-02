@@ -1,0 +1,376 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Quicksand", sans-serif;
+    display: flex;
+    margin: 0;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    height: 45px;
+    top: 0;
+    background-color: white;
+    border-radius: 0 0 99px 0;
+    /* padding-left: 23em; */
+    padding-left: 5em;
+    z-index: 3;
+}
+
+header p {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    margin-block: 0;
+}
+
+.sidebar {
+    /* position: sticky; */
+    position: fixed;
+    top: 0;
+    height: 100vh;
+    width: 18em;
+    display: flex;
+    z-index: 999;
+    transform: translateX(-100%);
+}
+
+.sidebar .sidebar-card {
+    width: 18em;
+    background-color: lightcyan;
+    text-align: center;
+    border-radius: 0 0 10px 0;
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 3em;
+}
+
+.sidebar-button {
+    position: absolute;
+    right: 0%;
+    transform: translateX(100%);
+    background-color: lightcyan;
+    width: 3em;
+    height: 7em;
+    border-radius: 0 10px 10px 0;
+}
+
+.sidebar-button p {
+    font-weight: bold;
+    height: 100%;
+    text-align: center;
+    margin: auto;
+    writing-mode: vertical-lr;
+}
+
+.sidebar-button a {
+    text-decoration: none;
+}
+
+.profile {
+    margin-top: 3.5em;
+}
+
+.profile img {
+    width: 10em;
+}
+
+#profile-name {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+#profile-motto {
+    font-size: 0.8em;
+    margin-block: 0.5em;
+}
+
+nav ul {
+    padding: 0;
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 1em;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: white;
+}
+
+.profile-sosmed ul {
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    gap: 1em;
+}
+
+.profile-sosmed ul li {
+    list-style: none;
+}
+
+.profile-sosmed ul li i {
+    font-size: 1.5em;
+}
+
+main {
+    flex-grow: 2;
+    width: auto;
+}
+
+footer {
+    position: relative;
+    background-color: aquamarine;
+    height: 70px;
+    width: 100%;
+    bottom: 0;
+    /* padding-left: 23em; */
+    /* padding-left: 5em; */
+}
+
+footer p {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-block: 0;
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+.content article {
+    display: flex;
+    position: relative;
+    height: 100vh;
+    flex-direction: column;
+    /* z-index: -3; */
+}
+
+.content article section {
+    padding-left: 5em;
+    padding-right: 2em;
+}
+
+.article-title {
+    padding-top: 2em;
+}
+
+.article-title h1 {
+    font-size: 2em;
+    margin-bottom: 0;
+}
+
+.content #home {
+    display: flex;
+    justify-content: center;
+}
+
+.content #home section {
+    padding-left: 8em;
+}
+
+#home .article-background {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    background: url('../img/home-background.jpg');
+    background-size: cover;
+}
+
+#home .article-background .mask {
+    position: absolute;
+    background-color: black;
+    opacity: 0.85;
+    height: 100%;
+    width: 100%;
+}
+
+#typing-welcome{
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0;
+    color: white;
+}
+
+#typing-message {
+    font-size: 1em;
+    color: white;
+}
+
+#about-me .article-section {
+    padding-top: 1em;
+    display: flex;
+    padding-left: 0;
+    padding-right: 2em;
+    height: 100%;
+    align-items: center;
+}
+
+#about-me #about-photo {
+    width: 200px;
+    border-radius: 40px;
+    margin: auto;
+}
+
+#about-me #biography {
+    display: flex;
+    flex-direction: column;
+    padding-right: 0;
+}
+
+#about-me #biography-detail {
+    padding-inline: 2em 0;
+}
+
+#about-me #biography-detail th {
+    text-align: left;
+    width: 100px;
+}
+
+#history {
+    display: flex;
+    flex-direction: column;
+}
+
+#history .dot-container {
+    position: relative;
+    width: 50%;
+    text-align: right;
+}
+
+
+#history .article-background {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    background: url('../img/event.jpeg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right; 
+}
+
+#history .article-background .solid {
+    position: absolute;
+    background-color: white;
+    left: 0;
+    opacity: 1;
+    height: 100%;
+    width: 60%;
+}
+
+#history .article-background .mask {
+    position: absolute;
+    background-color: white;
+    right: 0;
+    opacity: 0.8;
+    height: 100%;
+    width: 40%;
+}
+
+#history-life {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 100%;
+    gap: 1em;
+    justify-content: center;
+}
+
+.history-detail {
+    font-weight: bold;
+}
+
+.dot-container .dot-detail {
+    display: inline-block;
+}
+
+.dot-reverse .dot-detail {
+    padding-left: 0.5em;
+    position: absolute;
+    right: 0;
+    transform: translateX(100%);
+}
+
+.history-detail, .history-date {
+    margin: 0;
+    padding: 0;
+    font-size: 0.8em;
+}
+
+.dot-container i {
+    position: relative;
+}
+
+.center-line {
+    display: inline;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 2.3em;
+    width: 0.2em;
+    background-color: black;
+    transform: translate3d(-50%, -50%, 0);
+}
+
+#project-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5em;
+}
+
+.article-subtitle {
+    text-align: center;
+    margin: 0;
+    padding-bottom: 1em;
+}
+
+.article-projects {
+    display: flex;
+    gap: 2em;
+}
+
+.article-projects .project-card{
+    position: relative;
+    box-shadow: 5px 5px #888888;
+    width: 250px;
+    height: 150px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.article-projects .project-card img {
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.article-projects .project-card img:hover {
+    opacity: 0.5;
+}
+
+#project-section #more-projects {
+    padding-top: 2em;
+}
+
+#project-section #more-projects a{
+    text-decoration: none;
+}

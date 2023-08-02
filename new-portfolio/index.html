@@ -1,333 +1,233 @@
 <!DOCTYPE html>
-<html lang="en">
 
-  <head>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="assets/css/app.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    </head>
+    <body>
+        <header class="header">
+            <p class="quote">Make a better life for our children.</p>
+        </header>
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+        <aside class="sidebar">
+            <div class="sidebar-card">
+                <div class="profile">
+                    <img id="profile-photo" src="assets/img/profile.png">
+                    <p id="profile-name">Robertus Dwi Ari Utomo</p>
+                    <p id="profile-motto">I can code for you</p>
+                </div>
 
-    <title>Resume - Start Bootstrap Theme</title>
+                <nav class="navigation">
+                    <ul>
+                        <li><a href="#about-me">ABOUT ME</a></li>
+                        <li><a href="#history">HISTORY</a></li>
+                        <li><a href="#projects">PROJECTS</a></li>
+                        <li><a href="#my-blog">MY BLOG</a></li>
+                    </ul>
+                </nav>
 
-    <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom fonts for this template -->
-    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
-    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="css/resume.min.css" rel="stylesheet">
-
-  </head>
-
-  <body id="page-top">
-
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Start Bootstrap</span>
-        <span class="d-none d-lg-block">
-          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="../images/ari.png" alt="">
-        </span>
-      </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-
-    <div class="container-fluid p-0">
-
-      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
-        <div class="my-auto">
-          <h1 class="mb-0">Robertus Dwi
-            <span class="text-primary">Ari</span>
-            Utomo
-          </h1>
-          <div class="subheading mb-5">Kemayoran, Jakarta Pusat · (+62) 895-3961-06-041 ·
-            <a href="mailto:name@email.com">robertus.ari.utomo@gmail.com</a>
-          </div>
-          <p class="mb-5">Saya adalah Programmer.</p>
-          <ul class="list-inline list-social-icons mb-0">
-            <li class="list-inline-item">
-              <a href="https://www.facebook.com/rd.ariutomo">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="https://twitter.com/rd_ariutomo">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="https://www.linkedin.com/in/rd-ariutomo/">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="https://github.com/penguin55">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
-        <div class="my-auto">
-          <h2 class="mb-5">Experience</h2>
-
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Java Programmer</h3>
-              <div class="subheading mb-3"><a href="https://jasindo.co.id/">PT Asuransi Jasa Indonesia</a></div>
-              <p>Lorem Ipsum</p>
+                <div class="profile-sosmed">
+                    <ul>
+                        <li><a href="https://www.facebook.com/rd.ariutomo" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="https://www.instagram.com/rd.ariutomo" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="https://github.com/penguin55" target="_blank"><i class="fab fa-github"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/rd-ariutomo/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+                    </ul>
+                </div>
             </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">April 2023 - Sekarang</span>
+
+            <div class="sidebar-button">
+                <a href="#"><p>HOME</p></a>
             </div>
-          </div>
+        </aside>
 
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Remote Game Programmer</h3>
-              <div class="subheading mb-3"><a href="https://claygamestudio.com">Clay Game Studio</a></div>
-              <p>Lorem Ipsum</p>
+        <main>
+            <div class="content">
+                <article id="home">
+                    <div class="article-background">
+                        <div class="mask"></div>
+                    </div>
+                    <section>
+                        <h1 id="typing-welcome">I'm a Game Programmer</h1>
+                        <p id="typing-message">I can code a game for you</p>
+                    </section>
+                </article>
+
+                <article id="about-me">
+                    <section class="article-title">
+                        <h1>About Me</h1>
+                    </section>
+
+                    <section class="article-section">
+                        <section id="biography">
+                            <img id="about-photo" src="assets/img/ari.jpeg">    
+                        </section>
+
+                        <section id="biography-detail">
+                            <P> Hi, I'm <span>Ari Utomo</span> from Central Jakarta. I am a graduate of Informatics Engineering, <span>Brawijaya University</span> in 2022. I am a Game Programmer focusing on C#. I like exploring things about programming, I also learn the Java, C++ and Javascript programming languages ​​from lectures.</P>
+                            <table id="about-table">
+                                <tr>
+                                    <th>Name</th>
+                                    <td>Robertus Dwi Ari Utomo</td>
+                                </tr>
+                                <tr>
+                                    <th>Birthday</th>
+                                    <td>September, 17-1998</td>
+                                </tr>
+                                <tr>
+                                    <th>Address</th>
+                                    <td>Kran V Street, Number 03, Central Jakarta, 10610</td>
+                                </tr>
+                                <tr>
+                                    <th>Phone</th>
+                                    <td>(+62) 895 3961 06 041</td>
+                                </tr>
+                                <tr>
+                                    <th>Email</th>
+                                    <td>robertus.dwi.ari.utomo@gmail.com</td>
+                                </tr>
+                            </table>
+                        </section>
+                        
+                    </section>
+                </article>
+
+                <article id="history">
+                    <section class="article-title">
+                        <h1>History</h1>
+                    </section>
+
+                    <div class="article-background">
+                        <div class="solid"></div>
+                        <div class="mask"></div>
+                    </div>
+
+                    <section id="history-life">
+                        <div class="dot-container">
+                            <div class="dot-detail">
+                                <span class="history-detail">Born</span>
+                                <span class="history-date">1998</span> 
+                            </div>
+                            <i class="far fa-dot-circle"><div class="center-line"></div></i>
+                        </div>
+
+                        <div class="dot-container dot-reverse">
+                            <div class="dot-detail">
+                                <span class="history-detail">SDK Panti Parama</span>
+                                <span class="history-date">2005-2008</span> 
+                            </div>
+                            <i class="far fa-dot-circle"><div class="center-line"></div></i>
+                        </div>
+
+                        <div class="dot-container">
+                            <div class="dot-detail">
+                                <span class="history-detail">SDK 1 Untung Suropati</span>
+                                <span class="history-date">2008-2011</span> 
+                            </div>
+                            <i class="far fa-dot-circle"><div class="center-line"></div></i>
+                        </div>
+
+                        <div class="dot-container dot-reverse">
+                            <div class="dot-detail">
+                                <span class="history-detail">SMPK 1 Santa Maria</span>
+                                <span class="history-date">2011-2012</span> 
+                            </div>
+                            <i class="far fa-dot-circle"><div class="center-line"></div></i>
+                        </div>
+
+                        <div class="dot-container">
+                            <div class="dot-detail">
+                                <span class="history-detail">SMPN 1 Batu Ampar</span>
+                                <span class="history-date">2012-2014</span> 
+                            </div>
+                            <i class="far fa-dot-circle"><div class="center-line"></div></i>
+                        </div>
+
+                        <div class="dot-container dot-reverse">
+                            <div class="dot-detail">
+                                <span class="history-detail">SMAN 1 Batu Ampar</span>
+                                <span class="history-date">2014-2017</span> 
+                            </div>
+                            <i class="far fa-dot-circle"><div class="center-line"></div></i>
+                        </div>
+
+                        <div class="dot-container">
+                            <div class="dot-detail">
+                                <span class="history-detail">Universitas Brawijaya</span>
+                                <span class="history-date">2017-2022</span> 
+                            </div>
+                            <i class="far fa-dot-circle"><div class="center-line"></div></i>
+                        </div>
+
+                        <div class="dot-container dot-reverse">
+                            <div class="dot-detail">
+                                <span class="history-detail">Internship at Nightspade Studio</span>
+                                <span class="history-date">2020</span> 
+                            </div>
+                            <i class="far fa-dot-circle"><div class="center-line"></div></i>
+                        </div>
+
+                        <div class="dot-container">
+                            <div class="dot-detail">
+                                <span class="history-detail">Work at Clay Game Studio</span>
+                                <span class="history-date">2020-2023</span> 
+                            </div>
+                            <i class="far fa-dot-circle"><div class="center-line"></div></i>
+                        </div>
+
+                        <div class="dot-container dot-reverse">
+                            <div class="dot-detail">
+                                <span class="history-detail">Work at PT Asuransi Jasindo</span>
+                                <span class="history-date">2023-now</span> 
+                            </div>
+                            <i class="far fa-dot-circle"><div class="center-line"></div></i>
+                        </div>
+                    </section>
+
+                    </section>
+                </article>
+
+                <article id="projects">
+                    <section class="article-title">
+                        <h1>Projects</h1>
+                    </section>
+
+                    <div id="project-section">
+                        <section class="article-subtitle">
+                            <h2>Latest Projects</h2>
+                        </section>
+                        <section class="article-projects">
+                            <div class="project-card">
+                                <img src="assets/img/faerie-afterlight.jpg">
+                            </div>
+
+                            <div class="project-card">
+                                <img src="assets/img/faerie-afterlight.jpg">
+                            </div>
+
+                            <div class="project-card">
+                                <img src="assets/img/faerie-afterlight.jpg">
+                            </div>
+                        </section>
+                        <section id="more-projects">
+                            <a href="#">More Projects...</a>
+                        </section>
+                    </div>
+                </article>
+
+                <article id="my-blog">
+                    <section class="article-title">
+                        <h1>My Blog</h1>
+                    </section>
+                </article>
             </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">April 2023 - Sekarang</span>
-            </div>
-          </div>
 
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Lead Game Programmer</h3>
-              <div class="subheading mb-3"><a href="https://claygamestudio.com">Clay Game Studio</a></div>
-              <p>Lorem Ipsum</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">Januari 2023 - Maret 2023</span>
-            </div>
-          </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Senior Game Programmer</h3>
-              <div class="subheading mb-3"><a href="https://claygamestudio.com">Clay Game Studio</a></div>
-              <p>Lorem Ipsum</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">Januari 2022 - Desember 2022</span>
-            </div>
-          </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Junior Game Programmer</h3>
-              <div class="subheading mb-3"><a href="https://claygamestudio.com">Clay Game Studio</a></div>
-              <p>Lorem Ipsum</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">Januari 2021 - Desember 2021</span>
-            </div>
-          </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Game Programmer Intern</h3>
-              <div class="subheading mb-3"><a href="https://www.nightspade.com/">Nightspade Studio</a></div>
-              <p>Lorem Ipsum</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">Juli 2020 - September 2020</span>
-            </div>
-          </div>
-
-        </div>
-
-      </section>
-
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
-        <div class="my-auto">
-          <h2 class="mb-5">Education</h2>
-
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Universitas Brawijaya</h3>
-              <div class="subheading mb-3">Fakultas Ilmu Komputer</div>
-              <div>Teknik Informatika</div>
-              <p>GPA: 3.74</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">Agustus 2017 - Juli 2022</span>
-            </div>
-          </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">SMAN 1 Batu Ampar</h3>
-              <div class="subheading mb-3">MIPA</div>
-              <!-- <p>GPA: 3.56</p> -->
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">Agustus 2014 - Juli 2017</span>
-            </div>
-          </div>
-
-        </div>
-      </section>
-
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
-        <div class="my-auto">
-          <h2 class="mb-5">Skills</h2>
-
-          <div class="subheading mb-3">Programming Languages &amp; Tools</div>
-          <ul class="list-inline list-icons">
-            <li class="list-inline-item">
-              <i class="devicons devicons-html5"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-css3"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-javascript"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-jquery"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-sass"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-less"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-bootstrap"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-wordpress"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-grunt"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-gulp"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-npm"></i>
-            </li>
-          </ul>
-
-          <div class="subheading mb-3">Workflow</div>
-          <ul class="fa-ul mb-0">
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Mobile-First, Responsive Design</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Cross Browser Testing &amp; Debugging</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Cross Functional Teams</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Agile Development &amp; Scrum</li>
-          </ul>
-        </div>
-      </section>
-
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
-        <div class="my-auto">
-          <h2 class="mb-5">Interests</h2>
-          <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skiier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-          <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technolgy advancements in the front-end web development world.</p>
-        </div>
-      </section>
-
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
-        <div class="my-auto">
-          <h2 class="mb-5">Awards &amp; Certifications</h2>
-          <ul class="fa-ul mb-0">
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              Google Analytics Certified Developer</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              Mobile Web Specialist - Google Certification</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              1<sup>st</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition 2009</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              1<sup>st</sup>
-              Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              2<sup>nd</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition 2008</li>
-            <li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              1<sup>st</sup>
-              Place - James Buchanan High School - Hackathon 2006</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              3<sup>rd</sup>
-              Place - James Buchanan High School - Hackathon 2005</li>
-          </ul>
-        </div>
-      </section>
-
-    </div>
-
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
-    <!-- Custom scripts for this template -->
-    <script src="js/resume.min.js"></script>
-
-  </body>
-
+            <footer>
+                <p>Created by @Ari Utomo</p>
+            </footer>
+        </main>
+    </body>
 </html>
