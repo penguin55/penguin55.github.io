@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box
+}
+
+body {
+    font-family: "Quicksand", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FAF8F1;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    display: flex;
+    padding-inline: 2em;
+
+    background-color: #FAEAB1;
+}
+
+.logo {
+    display: flex;
+    height: 50px;
+    align-items: center;
+    margin: 10px auto 10px 0;
+}
+
+.logo img {
+    height: 100%;
+}
+
+.logo h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 1.2em;
+}
+
+#navbar {
+    margin: 10px 20px 10px auto;
+}
+
+#navbar ul {
+    display: flex;
+    align-items: center;
+    gap: 3em;
+}
+
+#navbar ul li {
+    list-style: none;
+}
+
+#navbar ul li a {
+    font-size: 1.2em;
+    color:black;
+}
+
+#navbar ul li a:hover { color:white; }
+
+a {
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+}
+
+.main-content {
+    flex-grow: 2;
+    max-width:75%;
+}
+
+.article {
+    width: 100%;
+    padding-inline: 3em;
+    padding-block: 3em;
+    display: flex;
+    align-items: center;
+}
+
+.article h1 {
+    font-size: 2em;
+    color: #0C4466;
+}
+
+.injil-of-the-day{
+    text-align: center;
+    min-height: 12em;
+    font-size: 2em;
+    flex-direction: column;
+    justify-content: center;
+    padding-block: 1em;
+    transition: all .3s ease-out;
+}
+
+.injil-of-the-day span {
+    font-size: 0.75em;
+    font-weight: bold;
+}
+
+.article img {
+    width: 25em;
+    /* height: 300px; */
+}
+
+#tentang section {
+    padding-left: 2em;
+}
+
+#kegiatan img , #warta img{
+    margin-left: auto;
+}
+
+#warta span {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+#jadwal-misa section { padding-left: 4em;}
+
+.day {
+    vertical-align: top;
+    text-align: left;
+    width: 90px;
+}
+
+.time { width: 50px; }
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    padding: 3em 3em;
+    max-width: 25%;
+
+    background-color: #E5BA73;
+    text-align: justify;
+    /* border-radius: 20px; */
+}
+
+.profile-info {
+    text-align: center;
+}
+
+.profile-info img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 20px;
+}
+
+.sidebar h1 { font-size: 1.3em; }
+.sidebar h2 { font-size: 1.1em; }
+.sidebar p { font-size: 1em; }
+
+.quote p {
+    margin-bottom: 0;
+}
+
+.quote span {
+    margin-block: 0;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    display: flex;
+    padding: 2em 2em;
+    align-items: center;
+
+    color: #FAF8F1;
+    background-color: #C58940;
+}
+
+footer img {
+    height: 150px;
+}
+
+footer h1 {
+    font-size: 1.2em;
+    margin: 0;
+}
+
+#footer-logo {
+    text-align: center;
+}
+
+#footer-info {
+    padding-left: 2em;
+}
+
+.icon-sosmed {
+    display: flex;
+    gap: 1em;
+    font-size: 1.5em;
+}
+
+@media screen and (max-width: 1140px)  {
+    main {
+        flex-direction: column;
+    }
+
+    .main-content, .sidebar {
+        max-width: 100%;
+    }
+
+    .profile-info {
+        margin-top: 2em;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    header {
+        position: unset;
+        flex-direction: column;
+    }
+
+    #navbar {
+        margin: 10px auto 10px 0;
+    }
+
+    #navbar ul { padding: 0;}
+
+    .article {
+        flex-direction: column;
+    }
+
+    .article img {
+        order: -1;
+        margin: 0 !important;
+    }
+
+    .article section {
+       padding-left: 0 !important;
+    }
+
+    .article section {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .logo {
+        margin-inline: auto;
+    }
+
+    #navbar { width: 100%; }
+
+    #navbar ul {
+        flex-direction: column;
+        align-items: center;
+    }
+}
