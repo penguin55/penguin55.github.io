@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "id": "book-0",
+            "cover": "data/book-cover/cover-buku-general.png",
+            "title": "Mencari Tuhan dalam Segala Hal",
+            "author": "Anthony de Mello",
+            "year": "2019",
+            "sinopsis": "Latihan Rohani St. Ignasius Loyola adalah salah satu adikarya dalam khazanah Kristen. Sebagai rangakaian meditasi dan latihan yang memandu para pencari dalam perjalanan menuju kesempurnaan spiritual."
+        },
+        {
+            "id": "book-1",
+            "cover": "data/book-cover/cover-pakatolik.png",
+            "title": "Pendidikan Agama Katolik dan Budi Pekerti",
+            "author": "Pusat Kurikulum Dan Perbukuan Balitbang Kemdikbud",
+            "year": "2021",
+            "sinopsis": "Pendidikan Agama Katolik untuk Sekolah Menengah Pertama yang mengajarkan nilai-nilai agama dan budi pekerti yang luhur."
+        },
+        {
+            "id": "book-2",
+            "cover": "data/book-cover/cover-tuhan-yesus-melayani.png",
+            "title": "Yesus Tuhan Yang Melayani",
+            "author": "Frans P. Tamarol",
+            "year": "2021",
+            "sinopsis": "Kitab-kitab Injil memiliki keunikan masing-masing. Tujuan utama penulisan Injil Markus adalah menyatakan Yesus sebagai Anak Manusia, Anak Allah, dan Juruselamat setiap orang yang percaya. "
+        }
+    ]
+}

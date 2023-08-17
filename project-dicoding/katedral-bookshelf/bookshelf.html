@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bookshelf Katedral Jakarta</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="css/app.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>
+    <body class="fit-content flex flex-column">
+        <header class="header flex">
+            <div id="header-logo">
+                <img src="img/katedral-logo-black.png" alt="Katedral Jakarta">
+            </div>
+            <h3>Katedral Jakarta</h3>
+            <nav id="navigation">
+                <ul class="flex">
+                    <li class="active"><a href="./bookshelf.html">Baca Warta</a></li>
+                    <li><a href="./perpustakaan.html">Perpustakaan Warta</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main class="main">
+            <div class="main-content flex flex-column">
+                <div class="bookshelf flex flex-column">
+                    <h1>Koleksi Buku</h1>
+                    <div class="hidden books-content" id="book-collection">
+                        <!-- CONTENT SHOULD BE HERE  -->
+                    </div>
+                    <div class="no-book" id="book-collection-error"><p></p></div>
+                </div>
+                <div class="bookshelf flex flex-column">
+                    <h1>Buku Terbaca</h1>
+                    <div class="hidden books-content" id="read-collection">
+                        <!-- CONTENT SHOULD BE HERE  -->
+                    </div>
+                    <div class="no-book" id="read-collection-error"><p>Belum ada buku terbaca</p></div>
+                </div>
+            </div>
+        </main>
+        <footer class="footer flex">
+            <div id="footer-logo">
+                <img src="img/katedral-logo.png" alt="Katedral Jakarta">
+            </div>
+            <div id="footer-info">
+                <p>Katedral Jakarta</p>
+                <p>Jl. Katedral No.7B, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710</p>
+                <p><span>Telepon : </span>+62 895 3961 06 041</p>
+                <div class="icon-sosmed flex">
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-facebook"></i>
+                    <i class="fab fa-tiktok"></i>
+                </div>
+            </div>
+        </footer>
+
+        <!-- OVERLAY -->
+        <div id="greeting-panel" class="hidden overlay flex flex-column">
+            <section id="logo" class="flex">
+                <img src="img/katedral-logo.png" alt="Katefral Jakarta">
+                <p>Katedral Jakarta</p>
+            </section>
+            <h1>Halo</h1>
+            <section id="input-gender" class="flex">
+                <button data-value="slider-gender" value="male" type="button" class="flex" id="slider-gender">
+                    <span id="slider-choice"></span>
+                    <i class="fa-solid fa-child gender-active"></i>
+                    <i class="fa-solid fa-child-dress"></i>
+                </button>
+                <input type="text" maxlength="12" placeholder="namamu"></input>
+            </section>
+            <button data-value="accept-name" type="button" class="button-accept">SIMPAN</button>
+            <div id="name-result">Santo Robertus</div>
+        </div>
+
+        <script type="module" src="js/app.js"></script>
+    </body>
+</html>
